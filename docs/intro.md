@@ -1,7 +1,5 @@
 # Introducción al mundo de las criptomonedas
 
-Aquí se presentan una explicación breve sobre los conceptos principales que definen 
-
 ## ¿Qué es una criptomoneda?
  
 Una criptomoneda vive dentro de una red que mantienen miles de usuarios a través del mundo, en donde cada uno de ellos tiene una copia exacta de todas las transacciones que se han hecho en esa red. Este archivo de transacciones es llamado **Blockchain**, y hace posible que ninguna persona pueda modificar elementos de la red sin que otro usuario se de cuenta de ello.
