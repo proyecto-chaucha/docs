@@ -1,5 +1,5 @@
 site_name: Chaucha Docs
 pages:
     - Home: index.md
-    - About: about.md
+    - Introducción: intro.md
 theme: cinder
