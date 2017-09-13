@@ -1,4 +1,12 @@
-# Introducción al mundo de las criptomonedas
+# Introducción
+
+Quizás leíste una noticia sobre el precio de *Bitcoin*, o escuchaste a un colega hablar de sus inversiones en criptomonedas de nombres tan extraños como *Ethereum*, o simplemente quieres ponerte al día sobre los nuevos avances tecnológicos. En cualquiera de esos casos, esta guía fue diseñada para guiarte desde los conceptos más simples hasta las ideas más abstractas que involucran el desarrollo y funcionamiento de estos sistemas.
+
+Sabemos que esta tecnología es difícil de comprender, y que la existencia de una *moneda virtual* no genera la confianza suficiente para ser adoptada por la sociedad. Por este motivo, he decidido dividir este proyecto en tres fases, a modo que tu mente se acostumbre a las ideas que se irán presentando en el camino. En primer lugar, te entregaremos un resumen de las primeras dudas que surgen al conocer este ecosistema, para luego introducir las definiciones claves que hacen funcionar a estos sistemas monetarios, y para finalizar, te entregaremos las herramientas y los conocimientos necesarios para implementar tu propia criptomoneda.
+
+En este ambiente tecnológico se mezclan ideas de diferentes áreas de desarrollo, que van desde los conceptos relacionados a la confianza y el valor de un objeto, hasta la teoría económica y los modelos matemáticos que hacen posible la criptografía. Pese a esto, en ningún caso es necesario ser un experto en estos temas, y esta guía fue desarrollada teniendo en cuenta esta problemática.
+
+A modo de introducción decidí responder las preguntas más comunes que surgen al momento de conocer esta tecnología, de una manera simple y clara, incluyendo conceptos que serán presentados de manera detallada en los siguientes capítulos de esta guía.
 
 ## ¿Qué es una criptomoneda?
  
@@ -10,9 +18,9 @@ Cuando tu obtienes una criptomoneda en tu dirección de monedero, tu eres el con
 
 ## ¿Cómo consigo criptomonedas?
 
-Existen dos métodos principales por los cuales puedes obtener criptomonedas, que son el minado de la red y las transferencias entre usuarios. Estos dos procesos se desarrollan dentro de la red, y pueden ser observados por todos los usuarios.
+Existen dos métodos principales por los cuales se pueden obtener criptomonedas, que son el minado de la red y las transferencias entre usuarios. 
 
-Para que la red funcione es necesario que los usuarios le entreguen algo llamado *Hashing Power*, lo que permite que la red verifique todas las transacciones que ocurren. Este proceso es llamado **Minado de criptomonedas**, a partir de que la red le regala criptomonedas a los usuarios que sacrifican parte de la capacidad de computo de sus dispositivos (computadores, tarjetas de video, placas ASIC) para que la red pueda funcionar de manera correcta.
+Para que la red funcione es necesario que los usuarios le entreguen algo llamado *Hashing Power*, lo que permite que la red verifique todas las transacciones que ocurren. Este proceso es llamado **Minado de criptomonedas**, a partir de que la red recompensa con criptomonedas a los usuarios que sacrifican parte de la capacidad de computo de sus dispositivos (computadores, tarjetas de video, placas ASIC) para que la red pueda funcionar de manera correcta.
 
 Cuando los usuarios obtienen criptomonedas por el proceso de minado, pueden transferirlas libremente a cualquier otro usuario de la red, y si esta criptomoneda tiene un valor económico asociado, se puede ejecutar un trueque entre criptomonedas y bienes o servicios.
 

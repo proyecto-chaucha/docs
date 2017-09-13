@@ -2,4 +2,5 @@ site_name: Chaucha Docs
 pages:
     - Home: index.md
     - Introducción: intro.md
+    - Blockchain: blockchain.md
 theme: cinder
