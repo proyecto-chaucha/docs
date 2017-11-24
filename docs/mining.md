@@ -1,12 +1,14 @@
 # Como minar Chauchas
 
+Para poder minar criptomonedas son necesarias dos cosas: Una **dirección** válida para almacenar tus ganancias y un **software de minado** específico para tus requerimientos de Hardware.
+
 IMPORTANTE: MUCHOS ANTIVIRUS DETECTAN ESTAS APLICACIONES COMO VIRUS, NO LO SON! DEBES CREAR ALGUNA REGLA EN TU ANTIVIRUS PARA QUE NO LOS BORRE O BLOQUEE.
 
-## Instalacion de la billetera ( Wallet ) :
+## 1. Obtener una dirección valida (Wallet) :
 
-Entrar a www.chaucha.cl y descargar el software https://www.chaucha.cl/ (ir a "descargas) y seleccionar la version que necesites, en este caso usaremos windows (https://github.com/proyecto-chaucha/chauchera/releases/download/1.0/chaucha-qt_1.0.0-win.zip ) . 
+Las direcciones de la Red Chaucha se obtienen utilizando la Chauchera, que es un software que te permite enviar y recibir Chauchas desde tu computadora. Este software esta disponible en la (página web)[https://www.chaucha.cl/#downloads] oficial del Proyecto Chaucha, en la sección de "Descargas".
 
-Al descargar la aplicacion, y abrirla, esta comenzara a descargar toda la cadena de transacciones que hay hasta ese momento, (demora un rato). Mientras descargas, puedes ir al menu y ver la opcion "recibir" ahi veras un codigo (en la seccion direccion) que es tu billetera virtual o wallet, con ese codigo podras minar chauchas, es basicamente una direccion a donde iran tus chauchas minadas.
+Al descargar la chauchera y ejecutarla por primera vez, esta comenzara a descargar toda la cadena de transacciones que hay hasta ese momento, (demora un rato). Mientras descargas, puedes ir al menu y ver la opcion "recibir", en donde verás un codigo (en la seccion direccion) que es tu billetera virtual o wallet, con ese codigo podras minar chauchas, es basicamente una direccion a donde irán tus chauchas minadas.
 
 Los datos para minar son:
 
