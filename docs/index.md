@@ -5,7 +5,7 @@ Aquí encontrarás toda la información generada por el [Proyecto Chaucha](http:
 ## Índice
 
 * [Introducción al mundo de las criptomonedas](/intro)
-* [Como minar Chauchas](/mining)
+* [Como minar Chauchas](/mining) - (Aporte de [Goro2030](https://github.com/Goro2030))
 
 ## Como aportar
 

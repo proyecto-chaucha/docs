@@ -42,3 +42,4 @@ Puedes ver las estadisticas de minado en la [sección de workers de la Mining Po
 Busca la dirección de tu wallet en la lista y podrás ver el *Hashrate* real que esta obteniendo la *Mining Pool* por el trabajo de tu computadora.
 
 Además de esto, puedes comprobar que el proceso de minado se esta desarrollando correctamente al observar la pantalla del software de minado.
+
