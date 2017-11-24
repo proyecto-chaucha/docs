@@ -1,6 +1,30 @@
 site_name: Chaucha Docs
 pages:
-    - Home: index.md
+    - Inicio: index.md
     - Introducción: intro.md
-    - Blockchain: blockchain.md
-theme: cinder
+    - Como minar Chauchas: mining.md
+theme:
+  name: 'material'
+  font:
+    text: 'Comfortaa'
+    code: 'Ubuntu Mono'
+  palette:
+    primary: 'pink'
+    accent: 'pink'
+  logo:
+      icon: 'home'
+
+  favicon: 'img/favicon.ico'
+  language: 'es'
+
+repo_name: 'proyecto-chaucha/docs'
+repo_url: 'https://github.com/proyecto-chaucha/docs'
+
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/proyecto-chaucha'
+    - type: 'facebook'
+      link: 'https://facebook.com/proyectochaucha'
+    - type: 'telegram'
+      link: 'https://t.me/chaucha'
