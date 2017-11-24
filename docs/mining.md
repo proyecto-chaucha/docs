@@ -2,51 +2,43 @@
 
 Para poder minar criptomonedas son necesarias dos cosas: Una **dirección** válida para almacenar tus ganancias y un **software de minado** específico para tus requerimientos de Hardware.
 
-IMPORTANTE: MUCHOS ANTIVIRUS DETECTAN ESTAS APLICACIONES COMO VIRUS, NO LO SON! DEBES CREAR ALGUNA REGLA EN TU ANTIVIRUS PARA QUE NO LOS BORRE O BLOQUEE.
+*IMPORTANTE: MUCHOS ANTIVIRUS DETECTAN ESTAS APLICACIONES COMO VIRUS, NO LO SON! DEBES CREAR ALGUNA REGLA EN TU ANTIVIRUS PARA QUE NO LOS BORRE O BLOQUEE.*
 
 ## 1. Obtener una dirección valida (Wallet) :
 
-Las direcciones de la Red Chaucha se obtienen utilizando la Chauchera, que es un software que te permite enviar y recibir Chauchas desde tu computadora. Este software esta disponible en la (página web)[https://www.chaucha.cl/#downloads] oficial del Proyecto Chaucha, en la sección de "Descargas".
+Las direcciones de la Red Chaucha se obtienen utilizando la Chauchera, que es un software que te permite enviar y recibir Chauchas desde tu computadora. Este software esta disponible en la [página web](https://www.chaucha.cl/#downloads) oficial del Proyecto Chaucha, en la sección de *Descargas*.
 
-Al descargar la chauchera y ejecutarla por primera vez, esta comenzara a descargar toda la cadena de transacciones que hay hasta ese momento, (demora un rato). Mientras descargas, puedes ir al menu y ver la opcion "recibir", en donde verás un codigo (en la seccion direccion) que es tu billetera virtual o wallet, con ese codigo podras minar chauchas, es basicamente una direccion a donde irán tus chauchas minadas.
+Al descargar la chauchera y ejecutarla por primera vez, esta comenzara a descargar toda la cadena de transacciones que hay hasta ese momento. 
 
-Los datos para minar son:
+Mientras se sincroniza tu chauchera puedes ir al menu y ver la opcion *Recibir*, en donde verás un codigo (en la seccion dirección) que es tu billetera virtual o wallet, con ese codigo podras minar chauchas, es basicamente una direccion a donde irán tus chauchas minadas.
 
-**URL: stratum+tcp://pool.chaucha.cl
-Puerto CPU/GPU: 3008
-Puerto ASIC: 3032
-Algoritmo: scrypt**
+## 2. Instalación y uso del software de minado
 
-Si deseas minar Chauchas puedes conectarte a la Mining Pool oficial del proyecto ( http://pool.chaucha.cl/ ) con el programa de minado correspondiente a los requerimientos de tu máquina, asegurándote de que este software soporte el algoritmo de minado scrypt.
+El software que necesitarás para minar criptomonedas depende de las especificaciones técnicas de tus computadora, y es recomendable realizar el proceso de minado con una buena ventilación del equipo para no sobrecalentar las piezas internas.
 
-## Instalación y uso del software de minado
+El proceso de minado lleva a tu computadora a un estado de estrés extremo, que acorta la esperanza de vida del dispositivo y puede llegar a causar daños si es realizada por tiempos prolongados. 
 
-Luego de tener ese numero debemos descargar el cliente para minar. 
+Recomendamos los siguientes 2 software para minar con tu tarjeta de video dedicada (GPU) o usando los recursos del procesador de tu computadora (CPU).
 
-Recomendamos los siguientes 2 miners:
+* GPU: [ccminer](https://github.com/tpruvot/ccminer/releases) 
+* CPU: [cpuminer](https://github.com/pooler/cpuminer/releases)
 
-A) GPU ( Placa de Video ) : **ccminer** . Puedes descargar la ultima version desde https://github.com/tpruvot/ccminer/releases 
-
-B) CPU : **minerd** . https://sourceforge.net/projects/cpuminer/files/ 
-
-Una vez que descargues el minero , necesitas descomprimirlo en una carpeta, por ejemplo C:\chauchamineria\
-
-Ahi tendras varios archivos ejecutables y un archivo . bat o .cmd que lo unico que hace es llamar al minero con los parametros adecuados. Modifica el archivo de acuerdo a lo siguiente:
+Una vez que descargues el software de minado necesitas descomprimirlo en una carpeta, abrir el *Bloc de notas* y escribir la configuración del software. Para finalizar, guarda este archivo como **inicio.bat** en la misma carpeta que se encuentra el software de minado para facilitarte el proceso de configuración.
 
 ### Minado con CPU:
-`minerd -a scrypt -t 6 --url=stratum+tcp://174.138.59.111:3008 -u <La direccion de tu wallet va aqui> -p x `
+`minerd -a scrypt -o stratum+tcp://174.138.59.111:3008 -u <Tu dirección de wallet> -p x `
 
 ### Minado con GPU
-`ccminer-x64 -a scrypt -o stratum+tcp://174.138.59.111:3008 -u <La direccion de tu wallet va aqui> -p x `
+`ccminer-x64 -a scrypt -o stratum+tcp://174.138.59.111:3008 -u <Tu dirección de wallet> -p x `
 
-Con eso deberias comenzar a minar.
+*Recuerda cambiar donde dice `<Tu dirección de wallet>` por la dirección que obtuviste en el primer paso de esta guía.*
+
+Al ejecutar el archivo de inicio el software de minado se conectará automaticamente a la *Mining Pool* y comenzará a minar.
 
 ## Verificando que estes minando correctamente
 
-Puedes ver las estadisticas de tu "worker" o minero, en la pagina del pool : http://pool.chaucha.cl/workers . Busca la direccion de tu wallet en la lista que aparecerá, y podrás ver tu "hashrate". El hashrate casi nunca es el mismo que reporta tu miner local, pero en promedio si lo es, no te preocupes.
+Puedes ver las estadisticas de minado en la [sección de workers de la Mining Pool](http://pool.chaucha.cl/workers). 
 
-Además, en tu software local, deberias ver que el miner no de errores ( como block rejected ) , lo que indica un error de configuracion.
+Busca la dirección de tu wallet en la lista y podrás ver el *Hashrate* real que esta obteniendo la *Mining Pool* por el trabajo de tu computadora.
 
-Warning: Hacer Overclocking de tu placa de video o CPU para minar puede traer graves consecuencias para tu hardware, llegando a quemar el mismo. El overclocking solo debes hacerlo si entiendes cabalmente lo que estas haciendo!
-
-**The Chaucha Team**
+Además de esto, puedes comprobar que el proceso de minado se esta desarrollando correctamente al observar la pantalla del software de minado.

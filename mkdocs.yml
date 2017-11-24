@@ -6,7 +6,7 @@ pages:
 theme:
   name: 'material'
   font:
-    text: 'Comfortaa'
+    text: 'Open Sans'
     code: 'Ubuntu Mono'
   palette:
     primary: 'pink'
