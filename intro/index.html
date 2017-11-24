@@ -1,150 +1,450 @@
+
+
+
+
 <!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">   
-    <link rel="shortcut icon" href="../img/favicon.ico">
-
-    <title>Introducción - Chaucha Docs</title>
-
-    <link href="../css/bootstrap-custom.min.css" rel="stylesheet">
-    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="//cdn.jsdelivr.net/font-hack/2.018/css/hack.min.css">
-    <link href='//fonts.googleapis.com/css?family=PT+Sans:400,400italic,700,700italic&subset=latin-ext,latin' rel='stylesheet' type='text/css'>
-    <link href='//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,400,300,600,700&subset=latin-ext,latin' rel='stylesheet' type='text/css'>
-    <link href="../css/base.css" rel="stylesheet">
-    <link href="../css/cinder.css" rel="stylesheet">
-    <link rel="stylesheet" href="../css/highlight.css">
-
-    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-            <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
-        <![endif]-->
-
-    <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
-    <script>
-    WebFont.load({
-        google: {
-            families: ['Open Sans', 'PT Sans']
-        }
-    });
-    </script>
-
+<html lang="es" class="no-js">
+  <head>
     
-</head>
-
-<body>
-
-    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
-    <div class="container">
-
-        <!-- Collapsed navigation -->
-        <div class="navbar-header">
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      <meta http-equiv="x-ua-compatible" content="ie=edge">
+      
+      
+      
+      
+        <meta name="lang:clipboard.copy" content="Copiar al portapapeles">
+      
+        <meta name="lang:clipboard.copied" content="Copiado al portapapeles">
+      
+        <meta name="lang:search.language" content="es">
+      
+        <meta name="lang:search.result.none" content="No se encontraron documentos">
+      
+        <meta name="lang:search.result.one" content="1 documento encontrado">
+      
+        <meta name="lang:search.result.other" content="# documentos encontrados">
+      
+        <meta name="lang:search.tokenizer" content="[\s\-]+">
+      
+      <link rel="shortcut icon" href="../img/favicon.ico">
+      <meta name="generator" content="mkdocs-0.17.2, mkdocs-material-2.2.0">
+    
+    
+      
+        <title>Introducción - Chaucha Docs</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/application.5d3fffba.css">
+      
+        <link rel="stylesheet" href="../assets/stylesheets/application-palette.fbd935c7.css">
+      
+    
+    
+      <script src="../assets/javascripts/modernizr.1aa3b519.js"></script>
+    
+    
+      
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa:300,400,400i,700|Ubuntu+Mono">
+        <style>body,input{font-family:"Comfortaa","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Ubuntu Mono","Courier New",Courier,monospace}</style>
+      
+      <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    
+    
+    
+  </head>
+  
+    
+    
+    
+      <body data-md-color-primary="pink" data-md-color-accent="pink">
+    
+  
+    <svg class="md-svg">
+      <defs>
+        
+        
+          <svg xmlns="http://www.w3.org/2000/svg" width="416" height="448" viewBox="0 0 416 448" id="github"><path fill="currentColor" d="M160 304q0 10-3.125 20.5t-10.75 19T128 352t-18.125-8.5-10.75-19T96 304t3.125-20.5 10.75-19T128 256t18.125 8.5 10.75 19T160 304zm160 0q0 10-3.125 20.5t-10.75 19T288 352t-18.125-8.5-10.75-19T256 304t3.125-20.5 10.75-19T288 256t18.125 8.5 10.75 19T320 304zm40 0q0-30-17.25-51T296 232q-10.25 0-48.75 5.25Q229.5 240 208 240t-39.25-2.75Q130.75 232 120 232q-29.5 0-46.75 21T56 304q0 22 8 38.375t20.25 25.75 30.5 15 35 7.375 37.25 1.75h42q20.5 0 37.25-1.75t35-7.375 30.5-15 20.25-25.75T360 304zm56-44q0 51.75-15.25 82.75-9.5 19.25-26.375 33.25t-35.25 21.5-42.5 11.875-42.875 5.5T212 416q-19.5 0-35.5-.75t-36.875-3.125-38.125-7.5-34.25-12.875T37 371.5t-21.5-28.75Q0 312 0 260q0-59.25 34-99-6.75-20.5-6.75-42.5 0-29 12.75-54.5 27 0 47.5 9.875t47.25 30.875Q171.5 96 212 96q37 0 70 8 26.25-20.5 46.75-30.25T376 64q12.75 25.5 12.75 54.5 0 21.75-6.75 42 34 40 34 99.5z"/></svg>
+        
+      </defs>
+    </svg>
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="drawer">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="search">
+    <label class="md-overlay" data-md-component="overlay" for="drawer"></label>
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header-nav md-grid">
+    <div class="md-flex">
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <a href=".." title="Chaucha Docs" class="md-header-nav__button md-logo">
+          
+            <i class="md-icon">home</i>
+          
+        </a>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <label class="md-icon md-icon--menu md-header-nav__button" for="drawer"></label>
+      </div>
+      <div class="md-flex__cell md-flex__cell--stretch">
+        <div class="md-flex__ellipsis md-header-nav__title" data-md-component="title">
+          
             
-            <!-- Expander button -->
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
+              <span class="md-header-nav__topic">
+                Chaucha Docs
+              </span>
+              <span class="md-header-nav__topic">
+                Introducción
+              </span>
             
-
-            <!-- Main title -->
-            <a class="navbar-brand" href="..">Chaucha Docs</a>
+          
         </div>
-
-        <!-- Expanded navigation -->
-        <div class="navbar-collapse collapse">
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        
+          
+            <label class="md-icon md-icon--search md-header-nav__button" for="search"></label>
             
-                <!-- Main navigation -->
-                <ul class="nav navbar-nav">
-                
-                
-                    <li >
-                        <a href="..">Home</a>
-                    </li>
-                
-                
-                
-                    <li class="active">
-                        <a href="./">Introducción</a>
-                    </li>
-                
-                
-                
-                    <li >
-                        <a href="../blockchain/">Blockchain</a>
-                    </li>
-                
-                
-                </ul>
-            
-
-            <ul class="nav navbar-nav navbar-right">
-                <li>
-                    <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
-                        <i class="fa fa-search"></i> Search
-                    </a>
-                </li>
-                
-                    <li >
-                        <a rel="next" href="..">
-                            <i class="fa fa-arrow-left"></i> Previous
-                        </a>
-                    </li>
-                    <li >
-                        <a rel="prev" href="../blockchain/">
-                            Next <i class="fa fa-arrow-right"></i>
-                        </a>
-                    </li>
-                
-                
-            </ul>
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="search"></label>
+  <div class="md-search__inner">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" required placeholder="Búsqueda" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="query">
+      <label class="md-icon md-search__icon" for="search"></label>
+      <button type="reset" class="md-icon md-search__icon" data-md-component="reset">&#xE5CD;</button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="result">
+          <div class="md-search-result__meta">
+            Teclee para comenzar búsqueda
+          </div>
+          <ol class="md-search-result__list"></ol>
         </div>
+      </div>
     </div>
+  </div>
 </div>
+          
+        
+      </div>
+      
+        <div class="md-flex__cell md-flex__cell--shrink">
+          <div class="md-header-nav__source">
+            
 
-    <div class="container">
-        
-        <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
-    <ul class="nav bs-sidenav">
+
+  
+
+
+  <a href="https://github.com/proyecto-chaucha/docs/" title="Ir al repositorio" class="md-source" data-md-source="github">
     
-        <li class="first-level active"><a href="#introduccion">Introducción</a></li>
-        
-            <li class="second-level"><a href="#que-es-una-criptomoneda">¿Qué es una criptomoneda?</a></li>
-            
-        
-            <li class="second-level"><a href="#como-consigo-criptomonedas">¿Cómo consigo criptomonedas?</a></li>
-            
-        
-            <li class="second-level"><a href="#que-precio-tienen-las-criptomonedas">¿Qué precio tienen las criptomonedas?</a></li>
-            
-        
-            <li class="second-level"><a href="#para-que-sirven-las-criptomonedas">¿Para qué sirven las criptomonedas?</a></li>
-            
-                <li class="third-level"><a href="#comercio">Comercio</a></li>
-            
-                <li class="third-level"><a href="#anonimato">Anonimato</a></li>
-            
-                <li class="third-level"><a href="#store-of-value">Store of value</a></li>
-            
-                <li class="third-level"><a href="#apuestas">Apuestas</a></li>
-            
-                <li class="third-level"><a href="#proteccion-contra-la-inflacion">Protección contra la inflación</a></li>
-            
-        
+      <div class="md-source__icon">
+        <svg viewBox="0 0 24 24" width="24" height="24">
+          <use xlink:href="#github" width="24" height="24"></use>
+        </svg>
+      </div>
     
+    <div class="md-source__repository">
+      proyecto-chaucha/docs
+    </div>
+  </a>
+
+          </div>
+        </div>
+      
+    </div>
+  </nav>
+</header>
+    
+    <div class="md-container">
+      
+        
+      
+      
+      <main class="md-main">
+        <div class="md-main__inner md-grid" data-md-component="container">
+          
+            
+              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    <nav class="md-nav md-nav--primary" data-md-level="0">
+  <label class="md-nav__title md-nav__title--site" for="drawer">
+    <span class="md-nav__button md-logo">
+      
+        <i class="md-icon">home</i>
+      
+    </span>
+    Chaucha Docs
+  </label>
+  
+    <div class="md-nav__source">
+      
+
+
+  
+
+
+  <a href="https://github.com/proyecto-chaucha/docs/" title="Ir al repositorio" class="md-source" data-md-source="github">
+    
+      <div class="md-source__icon">
+        <svg viewBox="0 0 24 24" width="24" height="24">
+          <use xlink:href="#github" width="24" height="24"></use>
+        </svg>
+      </div>
+    
+    <div class="md-source__repository">
+      proyecto-chaucha/docs
+    </div>
+  </a>
+
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href=".." title="Inicio" class="md-nav__link">
+      Inicio
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="toc">
+    
+      
+    
+    
+      <label class="md-nav__link md-nav__link--active" for="toc">
+        Introducción
+      </label>
+    
+    <a href="./" title="Introducción" class="md-nav__link md-nav__link--active">
+      Introducción
+    </a>
+    
+      
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="toc">Tabla de contenidos</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#que-es-una-criptomoneda" title="¿Qué es una criptomoneda?" class="md-nav__link">
+    ¿Qué es una criptomoneda?
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#como-consigo-criptomonedas" title="¿Cómo consigo criptomonedas?" class="md-nav__link">
+    ¿Cómo consigo criptomonedas?
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#que-precio-tienen-las-criptomonedas" title="¿Qué precio tienen las criptomonedas?" class="md-nav__link">
+    ¿Qué precio tienen las criptomonedas?
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#para-que-sirven-las-criptomonedas" title="¿Para qué sirven las criptomonedas?" class="md-nav__link">
+    ¿Para qué sirven las criptomonedas?
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#comercio" title="Comercio" class="md-nav__link">
+    Comercio
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#anonimato" title="Anonimato" class="md-nav__link">
+    Anonimato
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#store-of-value" title="Store of value" class="md-nav__link">
+    Store of value
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#apuestas" title="Apuestas" class="md-nav__link">
+    Apuestas
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#proteccion-contra-la-inflacion" title="Protección contra la inflación" class="md-nav__link">
+    Protección contra la inflación
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+      
+      
     </ul>
-</div></div>
-        <div class="col-md-9" role="main">
+  
+</nav>
+    
+  </li>
 
-<h1 id="introduccion">Introducción</h1>
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../mining/" title="Como minar Chauchas" class="md-nav__link">
+      Como minar Chauchas
+    </a>
+  </li>
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="toc">Tabla de contenidos</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#que-es-una-criptomoneda" title="¿Qué es una criptomoneda?" class="md-nav__link">
+    ¿Qué es una criptomoneda?
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#como-consigo-criptomonedas" title="¿Cómo consigo criptomonedas?" class="md-nav__link">
+    ¿Cómo consigo criptomonedas?
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#que-precio-tienen-las-criptomonedas" title="¿Qué precio tienen las criptomonedas?" class="md-nav__link">
+    ¿Qué precio tienen las criptomonedas?
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#para-que-sirven-las-criptomonedas" title="¿Para qué sirven las criptomonedas?" class="md-nav__link">
+    ¿Para qué sirven las criptomonedas?
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#comercio" title="Comercio" class="md-nav__link">
+    Comercio
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#anonimato" title="Anonimato" class="md-nav__link">
+    Anonimato
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#store-of-value" title="Store of value" class="md-nav__link">
+    Store of value
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#apuestas" title="Apuestas" class="md-nav__link">
+    Apuestas
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#proteccion-contra-la-inflacion" title="Protección contra la inflación" class="md-nav__link">
+    Protección contra la inflación
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+      
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                  <a href="https://github.com/proyecto-chaucha/docs/edit/master/docs/intro.md" title="Editar esta página" class="md-icon md-content__icon">&#xE3C9;</a>
+                
+                
+                <h1 id="introduccion">Introducción</h1>
 <p>Quizás leíste una noticia sobre el precio de <em>Bitcoin</em>, o escuchaste a un colega hablar de sus inversiones en criptomonedas de nombres tan extraños como <em>Ethereum</em>, o simplemente quieres ponerte al día sobre los nuevos avances tecnológicos. En cualquiera de esos casos, esta guía fue diseñada para guiarte desde los conceptos más simples hasta las ideas más abstractas que involucran el desarrollo y funcionamiento de estos sistemas.</p>
-<p>Sabemos que esta tecnología es difícil de comprender, y que la existencia de una <em>moneda virtual</em> no genera la confianza suficiente para ser adoptada por la sociedad. Por este motivo, he decidido dividir este proyecto en tres fases, a modo que tu mente se acostumbre a las ideas que se irán presentando en el camino. En primer lugar, te entregaremos un resumen de las primeras dudas que surgen al conocer este ecosistema, para luego introducir las definiciones claves que hacen funcionar a estos sistemas monetarios, y para finalizar, te entregaremos las herramientas y los conocimientos necesarios para implementar tu propia criptomoneda.</p>
 <p>En este ambiente tecnológico se mezclan ideas de diferentes áreas de desarrollo, que van desde los conceptos relacionados a la confianza y el valor de un objeto, hasta la teoría económica y los modelos matemáticos que hacen posible la criptografía. Pese a esto, en ningún caso es necesario ser un experto en estos temas, y esta guía fue desarrollada teniendo en cuenta esta problemática.</p>
 <p>A modo de introducción decidí responder las preguntas más comunes que surgen al momento de conocer esta tecnología, de una manera simple y clara, incluyendo conceptos que serán presentados de manera detallada en los siguientes capítulos de esta guía.</p>
 <h2 id="que-es-una-criptomoneda">¿Qué es una criptomoneda?</h2>
@@ -153,91 +453,147 @@
 <p>Cuando tu obtienes una criptomoneda en tu dirección de monedero, tu eres el controlador de ese objeto dentro de la red, y nadie puede destruir tu criptomoneda ni transferirla sin conocer tu llave privada.</p>
 <h2 id="como-consigo-criptomonedas">¿Cómo consigo criptomonedas?</h2>
 <p>Existen dos métodos principales por los cuales se pueden obtener criptomonedas, que son el minado de la red y las transferencias entre usuarios. </p>
-<p>Para que la red funcione es necesario que los usuarios le entreguen algo llamado <em>Hashing Power</em>, lo que permite que la red verifique todas las transacciones que ocurren. Este proceso es llamado <strong>Minado de criptomonedas</strong>, a partir de que la red recompensa con criptomonedas a los usuarios que sacrifican parte de la capacidad de computo de sus dispositivos (computadores, tarjetas de video, placas ASIC) para que la red pueda funcionar de manera correcta.</p>
-<p>Cuando los usuarios obtienen criptomonedas por el proceso de minado, pueden transferirlas libremente a cualquier otro usuario de la red, y si esta criptomoneda tiene un valor económico asociado, se puede ejecutar un trueque entre criptomonedas y bienes o servicios.</p>
+<p>Para que la red funcione correctamente es necesario que los usuarios le entreguen algo llamado <em>Hashing Power</em>, lo que permite que la red pueda verificar que todas las transacciones son correctas. Este proceso es llamado <strong>Minado de criptomonedas</strong>, a partir de que la red recompensa con criptomonedas a los usuarios que sacrifican parte de la capacidad de computo de sus dispositivos (computadores, tarjetas de video, placas ASIC).</p>
+<p>Cuando los usuarios obtienen criptomonedas por el proceso de minado, pueden transferirlas libremente a cualquier otro usuario de la red, y si esta criptomoneda tiene un valor económico asociado, se puede ejecutar un trueque entre criptomonedas, bienes o servicios.</p>
 <p>Por ejemplo, dentro del Blockchain del Proyecto Chaucha se puede observar <a href="http://explorer.chaucha.cl/tx/fc3a023cde55d073fdb65322d36090d4b5c7806520c9a436adcc49ed07d797ef">la creación de criptomonedas</a> a través del proceso de minado, y la <a href="http://explorer.chaucha.cl/tx/c60440e22dd77583fc484382a21e60284a36cf8885212e150f6073a7602dc46f">transferencia de criptomonedas</a> entre usuarios.</p>
 <h2 id="que-precio-tienen-las-criptomonedas">¿Qué precio tienen las criptomonedas?</h2>
 <p>El valor comercial que tiene una criptomoneda se basa en tres puntos esenciales:</p>
 <ul>
 <li>Existen usuarios que tienen criptomonedas y desean venderlas</li>
 <li>Existen usuarios que quieren obtener criptomonedas y desean comprarlas</li>
-<li>Existe un mercado en donde se puede comprar o vender criptomonedas</li>
+<li>Existe un mercado en donde se pueden comprar o vender criptomonedas</li>
 </ul>
-<p>Estos tres puntos deben cumplirse para que una criptomoneda obtenga un valor de mercado, ya que este se obtiene cuando se ejecuta una transacción de compra o venta. </p>
-<p>Cada usuario quiere obtener el mayor beneficio de esta transacción, por lo que las personas que venden criptomonedas siempre van a intentar venderlas al mayor precio posible, y por el contrario, las personas que quieran comprar criptomonedas siempre buscarán gastar la menor cantidad de dinero posible. En base a esto, el precio se mercado se fija entre el valor mínimo de venta y el valor máximo de compra.</p>
+<p>Estos tres puntos deben cumplirse para que una criptomoneda obtenga un valor de mercado.</p>
+<p>Cada usuario quiere obtener el mayor beneficio de esta transacción. Las personas que venden criptomonedas siempre van a intentar venderlas al mayor precio posible, y por el contrario, las personas que quieran comprar criptomonedas siempre buscarán gastar la menor cantidad de dinero posible. En base a esto, el precio se mercado se fija entre el valor mínimo de venta y el valor máximo de compra.</p>
 <p>Esta forma de fijar un precio de mercado se produce por la utilización de algo llamado <em>order book</em> (o libro de ordenes), en donde los usuarios generan ordenes de compra y venta publicas en el mercado. Esto se puede observar en plataformas como <a href="https://www.gdax.com/trade/ETH-USD">Gdax</a>, que muestran la variación del order book en tiempo real.</p>
 <h2 id="para-que-sirven-las-criptomonedas">¿Para qué sirven las criptomonedas?</h2>
-<p>Una criptomoneda tiene tres cualidades importantes: es posible almacenarlas e intercambiarlas, tienen un precio de mercado y presentan sistemas de encriptación para mantener la seguridad y el registro de las transacciones. Por esto, es posible utilizar estas criptomonedas de muchas maneras distintas, al igual que se utiliza el dinero dentro de una sociedad.</p>
+<p>Una criptomoneda tiene tres cualidades importantes: es posible almacenarlas e intercambiarlas, tienen un precio de mercado y presentan sistemas de encriptación para mantener la seguridad y el registro de las transacciones. Por esto, es posible utilizarlas de muchas maneras distintas, al igual que se utiliza el dinero dentro de una sociedad.</p>
 <h3 id="comercio">Comercio</h3>
 <p>Cuando nació la red Bitcoin nadie tenía idea de que se podía hacer con esta moneda, ya que los primeros usuarios involucrados en el desarrollo de esta tecnología solo se enfocaron en el ámbito técnico y no en la repercusión social o cultural que genera la existencia de una “moneda mundial”.</p>
-<p>El primer uso documentado de una criptomoneda fue el 17 de mayo del año 2010, en donde <a href="https://en.bitcoin.it/wiki/Laszlo_Hanyecz">Laszlo Hanyecz</a> convenció a otro usuario de bitcoin para intercambiar dos pizzas por 10000 BTC. Este hito en la historia de bitcoin es conocido como “La pizza más cara del mundo”, y ajustando el valor de esta transacción a la actualidad ese monto es equivalente a unos 28.000.000.000 pesos Chilenos.</p>
-<p>Luego de esta transacción en la vida real, los usuarios de bitcoin decidieron impulsar el comercio a través de esta moneda, pero lamentablemente en base a los problemas de escalabilidad de la red no se ha podido implementar esta criptomoneda como una alternativa rápida y eficaz para hacer transacciones por bienes o servicios. En la actualidad una transacción de bitcoin cuesta aproximadamente 2 dolares de impuesto y tarda entre 10 minutos a un par de horas en verificarse.</p>
-<p>Se han intentado muchos cambios desde el punto de vista tecnológico para agilizar las transacciones y disminuir el impuesto, pero lamentablemente todavía no se logra construir una criptomoneda de transferencia instantánea.</p>
-<p>Cabe destacar que existen comercios virtuales que aceptan bitcoin y se siguen ejecutando transacciones de bienes y servicios con criptomonedas a modo de trueque.</p>
+<p>El primer uso documentado de una criptomoneda fue el 17 de mayo del año 2010, en donde <a href="https://en.bitcoin.it/wiki/Laszlo_Hanyecz">Laszlo Hanyecz</a> convenció a otro usuario de bitcoin para intercambiar dos pizzas por 10000 BTC. Este hito en la historia de bitcoin es conocido como “La pizza más cara del mundo”, y cada año se celebra este día calculando el precio actual de esta transacción.</p>
+<p>Luego de esta transacción en la vida real, los usuarios de bitcoin decidieron impulsar el comercio a través de esta moneda, pero lamentablemente en base a los problemas de escalabilidad de la red no se ha podido implementar esta criptomoneda como una alternativa rápida y eficaz para hacer transacciones por bienes o servicios. </p>
+<p>Se han intentado muchos cambios desde el punto de vista tecnológico para agilizar las transacciones y disminuir el impuesto, pero lamentablemente todavía no se logra construir una criptomoneda de transferencia gratuita e instantánea.</p>
+<p>Cabe destacar que existen comercios virtuales que aceptan bitcoin y otro tipo de criptomonedas, y se siguen ejecutando transacciones de bienes y servicios con criptomonedas a modo de trueque.</p>
 <h3 id="anonimato">Anonimato</h3>
-<p>Las criptomonedas tienen la característica de no vincular a personas con las direcciones de la red, por lo que es difícil rastrear la procedencia de una transacción. Por este motivo, las criptomonedas también han sido utilizadas para mover cantidades de dinero de forma anónima. </p>
-<p>En este tema existen los ejemplos del <a href="https://en.wikipedia.org/wiki/WannaCry_ransomware_attack">Ransomware WannaCry</a>, que afectó al mundo en mayo del año 2017 y cobraba una recompensa para desencriptar archivos de máquinas infectadas, y el famoso caso de <a href="https://en.wikipedia.org/wiki/Silk_Road_(marketplace)">Silk Road</a>, que permitía intercambiar bitcoins por drogas, armas y servicios ilegales.</p>
-<p>Dentro del mundo de las criptomonedas existen sistemas que son conocidas como <strong>criptomonedas anónimas</strong>, tales como <a href="https://pivx.org/">PIVX</a>, <a href="https://getmonero.org/">Monero</a> y <a href="https://bytecoin.org/">Bytecoin</a>, y tienen la cualidad de omitir información clave dentro de su Blockchain para no delatar a los usuarios involucrados en las transacciones. Una vez que se intercambian bitcoins por una de estas monedas es imposible conocer el destino del dinero.</p>
-<p>Otro uso de esa cualidad de anonimato es el lavado de dinero, que ocurre cuando personas o instituciones se transfieren a si mismas grandes cantidades de dinero para eliminar su precedencia. Este punto es investigado activamente, ya que es considerado un delito en la mayor parte del mundo.</p>
+<p>Las criptomonedas tienen la característica de no vincular a personas con las direcciones de la red, lo que hace difícil rastrear la procedencia de una transacción. Por este motivo, las criptomonedas también han sido utilizadas para mover cantidades de dinero de forma anónima. </p>
+<p>En este tema existen ejemplos como el <a href="https://en.wikipedia.org/wiki/WannaCry_ransomware_attack">Ransomware WannaCry</a>, que afectó al mundo en mayo del año 2017 y cobraba una recompensa para desencriptar archivos de máquinas infectadas, y el famoso caso de <a href="https://en.wikipedia.org/wiki/Silk_Road_(marketplace)">Silk Road</a>, que permitía intercambiar bitcoins por drogas, armas y servicios ilegales.</p>
+<p>Dentro del mundo de las criptomonedas existen sistemas que son conocidos como <strong>criptomonedas anónimas</strong>, tales como <a href="https://pivx.org/">PIVX</a>, <a href="https://getmonero.org/">Monero</a> y <a href="https://bytecoin.org/">Bytecoin</a>, y tienen la cualidad de omitir información clave dentro de su Blockchain para no delatar a los usuarios involucrados en las transacciones. Una vez que se intercambian bitcoins por una de estas monedas es imposible conocer el destino de la transacción.</p>
+<p>Otro uso de esa cualidad de anonimato es el lavado de dinero, que ocurre cuando personas o instituciones se transfieren a si mismas grandes cantidades de dinero para eliminar su precedencia. Este punto es investigado activamente y es considerado un delito.</p>
 <h3 id="store-of-value">Store of value</h3>
 <p>Este término puede ser traducido como <em>un bien que puede ser almacenado y que mantiene su valor en el futuro</em>, como por ejemplo el oro o las joyas.</p>
-<p>Muchas personas compran criptomonedas para almacenarlas (termino conocido como <strong>HODL</strong>), y esto permite que la cantidad de monedas en circulación sea menor y aumente el precio. Este concepto se basa en el éxito de bitcoin y en la riqueza que generó a los primeros usuarios de esta criptomoneda, en base de la idea de que <em>si ya ocurrió, puede ocurrir otra vez</em>.</p>
-<p>Por este motivo, muchas personas invierten en criptomonedas que están en sus primeras etapas de desarrollo, e incluso existen ofrecimientos públicos de criptomonedas (llamados ICO), en donde se subastan <em>tokens</em> que serán equivalentes a criptomonedas que se desarrollarán en el futuro. Gracias a esto, se han podido financiar muchos proyectos innovadores sin la necesidad de inversión por parte de los desarrolladores, pero también se ha iniciado un aumento considerable en la creación de criptomonedas que intentan ganar dinero fácil.</p>
+<p>Muchas personas compran criptomonedas para almacenarlas (termino conocido como <strong>HODL</strong>), y esto permite que la cantidad de monedas en circulación sea menor y aumente el precio por la disminución en la oferta. Este concepto se basa en el éxito de bitcoin y en la riqueza que generó a los primeros usuarios de esta criptomoneda, en base de la idea de que <em>si ya ocurrió, puede ocurrir otra vez</em>.</p>
+<p>Por este motivo, muchas personas invierten en criptomonedas que están en sus primeras etapas de desarrollo, e incluso existen ofrecimientos públicos de criptomonedas (llamados ICO), en donde se subastan <em>tokens</em> que serán equivalentes a criptomonedas que se desarrollarán en el futuro. Gracias a esto, se han podido financiar muchos proyectos innovadores sin la necesidad de inversión por parte de los desarrolladores o de otras entidades, pero también a producido un aumento considerable en la creación de criptomonedas que intentan ganar dinero fácil.</p>
 <p>En base a lo anterior, mi opinión es que el usuario debe informarse antes de invertir en un proyecto, debido a que ninguna criptomoneda que se ha creado después de bitcoin ha tenido el crecimiento económico de esta, y es imposible predecir que ocurrirá en el futuro. Solo se debe confiar en proyectos que pueden demostrar sus capacidades, y no en promesas o ideas que quizás nunca puedan ver la luz.</p>
 <h3 id="apuestas">Apuestas</h3>
-<p>Las criptomonedas son consideradas como una forma de dinero multinacional, por su posibilidad de ser transferidas entre países sin la necesidad de pasar por regulaciones gubernamentales o impuestos. Esta cualidad de las criptomonedas las convierte en una alternativa perfecta para realizar apuestas e implementar juegos de azar que mantengan un registro abierto y transparente de su funcionamiento.</p>
+<p>Las criptomonedas son consideradas como una forma de dinero multinacional, por su posibilidad de ser transferidas entre países sin la necesidad de regulaciones gubernamentales o impuestos. Esta cualidad de las criptomonedas las convierte en una alternativa perfecta para realizar apuestas e implementar juegos de azar que mantengan un registro abierto y transparente de su funcionamiento.</p>
 <p>Los métodos de apuestas con criptomonedas se basan en la automatización de procesos y en la generación de números de forma aleatoria. En algunos casos, se programan líneas de código que interactúan de manera inmediata si ocurre una transacción a una dirección especifica (esto se llama Smart Contract), y en otros casos, se utiliza el Blockchain para apoyar a la generación de números aleatorios.</p>
-<p>Estos sistemas de apuestas también pueden ser usados para estafar a las personas, y no se recomienda ser utilizados de manera seria ni con mucho dinero. Si encuentras en internet alguno de estos juegos de azar, te recomiendo revisar las leyes de tu país sobre apuestas e intenta mantener tu identidad de forma anónima.</p>
+<p>Estos sistemas de apuestas también pueden ser usados para estafar a las personas, y no se recomienda ser utilizados de manera seria ni con mucho dinero. Para mas información sobre la legalidad de estos sistemas e recomiendo revisar las leyes de tu país sobre apuestas y juegos de azar.</p>
 <h3 id="proteccion-contra-la-inflacion">Protección contra la inflación</h3>
-<p>Uno de los mayores problemas de los sistemas monetarios es la relación que mantienen con los gobiernos de los países, que en casos extremos llevan a la devaluación extrema de estas monedas. El mayor ejemplo de esto se puede observar en <a href="https://www.forbes.com/sites/timworstall/2016/05/04/congratulations-to-venezuela-bolivar-notes-are-now-worth-less-than-it-costs-to-print-them">Venezuela</a>, que vió una masiva perdida en el valor del Bolivar, y también en el caso de <a href="https://en.wikipedia.org/wiki/Corralito">Argentina</a>, que ha sufrido cambios importantes en el valor de su moneda en las últimas décadas.</p>
+<p>Uno de los mayores problemas de los sistemas monetarios es la relación que mantienen con los gobiernos, que en casos extremos llevan a la devaluación extrema de estas monedas. El mayor ejemplo de esto se puede observar en <a href="https://www.forbes.com/sites/timworstall/2016/05/04/congratulations-to-venezuela-bolivar-notes-are-now-worth-less-than-it-costs-to-print-them">Venezuela</a>, que vió una masiva perdida en el valor del Bolivar, y también en el caso de <a href="https://en.wikipedia.org/wiki/Corralito">Argentina</a>, que ha sufrido cambios importantes en el valor de su moneda en las últimas décadas.</p>
 <p>Muchas personas que viven en países con gobiernos inestables deciden invertir en criptomonedas, a modo de proteger sus sueldos de la inflación de la moneda utilizada. Este factor puede crear un impacto importante dentro de la sociedad, ya que el miedo y la incertidumbre hace que las personas aprendan y busquen alternativas para protegerse de la inestabilidad, lo que al final termina impulsando la implementación de las criptomonedas por parte de los usuarios y no de los gobiernos.</p>
-<p>La idea de bitcoin nació en el año 2008, en la época en donde existió la <a href="https://en.wikipedia.org/wiki/Great_Recession">mayor crisis bancaria de EEUU</a>. Dentro del <a href="https://en.bitcoin.it/wiki/Genesis_block">código fuente</a> de bitcoin, e incluso en los <a href="http://p2pfoundation.ning.com/forum/topics/bitcoin-open-source">primeros post de Satoshi Nakamoto</a>, se puede observar que esta crisis influenció la creación de esta criptomoneda. Bajo esta idea, es razonable pensar que las criptomonedas son la herramienta perfecta para sobrevivir una crisis.</p></div>
-        
-    </div>
-
-    <footer class="col-md-12 text-center">
-        <hr>
-        <p>
-        <small>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a>.</p></small>
-    </footer>
-
-    <script src="../js/jquery-1.10.2.min.js"></script>
-    <script src="../js/bootstrap-3.0.3.min.js"></script>
-    <script src="../js/highlight.pack.js"></script>
-    <script>hljs.initHighlightingOnLoad();</script>
-    <script>
-    var base_url = '..';
-    </script>
-    <script data-main="../mkdocs/js/search.js" src="../mkdocs/js/require.js"></script>
-    <script src="../js/base.js"></script>
-
-    <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <button type="button" class="close" data-dismiss="modal">
-                        <span aria-hidden="true">&times;</span>
-                        <span class="sr-only">Close</span>
-                    </button>
-                    <h4 class="modal-title" id="exampleModalLabel">Search</h4>
-                </div>
-                <div class="modal-body">
-                    <p>
-                        From here you can search these documents. Enter your search terms below.
-                    </p>
-                    <form role="form">
-                        <div class="form-group">
-                            <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query">
-                        </div>
-                    </form>
-                    <div id="mkdocs-search-results"></div>
-                </div>
-                <div class="modal-footer">
-                </div>
-            </div>
+<p>La idea de bitcoin nació en el año 2008, en la época en donde existió la <a href="https://en.wikipedia.org/wiki/Great_Recession">mayor crisis bancaria de EEUU</a>. Dentro del <a href="https://en.bitcoin.it/wiki/Genesis_block">código fuente</a> de bitcoin, e incluso en los <a href="http://p2pfoundation.ning.com/forum/topics/bitcoin-open-source">primeros post de Satoshi Nakamoto</a>, se puede observar que esta crisis influenció la creación de esta criptomoneda.</p>
+<p>Bajo esta idea, es razonable pensar que las criptomonedas son la herramienta perfecta para sobrevivir una crisis.</p>
+                
+                  
+                
+              
+              
+                
+              
+            </article>
+          </div>
         </div>
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <div class="md-footer-nav">
+      <nav class="md-footer-nav__inner md-grid">
+        
+          <a href=".." title="Inicio" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
+            </div>
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Anterior
+                </span>
+                Inicio
+              </span>
+            </div>
+          </a>
+        
+        
+          <a href="../mining/" title="Como minar Chauchas" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Siguiente
+                </span>
+                Como minar Chauchas
+              </span>
+            </div>
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-forward md-footer-nav__button"></i>
+            </div>
+          </a>
+        
+      </nav>
     </div>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+        powered by
+        <a href="http://www.mkdocs.org">MkDocs</a>
+        and
+        <a href="https://squidfunk.github.io/mkdocs-material/">
+          Material for MkDocs</a>
+      </div>
+      
+        
+  <div class="md-footer-social">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    
+      <a href="https://github.com/proyecto-chaucha" class="md-footer-social__link fa fa-github"></a>
+    
+      <a href="https://facebook.com/proyectochaucha" class="md-footer-social__link fa fa-facebook"></a>
+    
+      <a href="https://t.me/chaucha" class="md-footer-social__link fa fa-telegram"></a>
+    
+  </div>
 
-    </body>
-
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    
+      <script src="../assets/javascripts/application.6cdc17f0.js"></script>
+      
+        
+        
+          
+          <script src="../assets/javascripts/lunr/lunr.stemmer.support.js"></script>
+          
+            
+              
+              <script src="../assets/javascripts/lunr/lunr.es.js"></script>
+            
+          
+          
+        
+      
+      <script>app.initialize({version:"0.17.2",url:{base:".."}})</script>
+      
+    
+    
+      
+    
+  </body>
 </html>
