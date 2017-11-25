@@ -399,14 +399,14 @@
 <p>El proceso de minado lleva a tu computadora a un estado de estrés extremo, que acorta la esperanza de vida del dispositivo y puede llegar a causar daños si es realizada por tiempos prolongados. </p>
 <p>Recomendamos los siguientes 2 software para minar con tu tarjeta de video dedicada (GPU) o usando los recursos del procesador de tu computadora (CPU).</p>
 <ul>
-<li>GPU: <a href="https://github.com/tpruvot/ccminer/releases">ccminer</a> </li>
+<li>GPU: <a href="https://github.com/tpruvot/ccminer/releases">ccminer (NVIDIA)</a> y <a href="https://github.com/nicehash/cgminer-3.7.2-scrypt-jane/releases">cgminer (AMD)</a></li>
 <li>CPU: <a href="https://github.com/pooler/cpuminer/releases">cpuminer</a></li>
 </ul>
 <p>Una vez que descargues el software de minado necesitas descomprimirlo en una carpeta, abrir el <em>Bloc de notas</em> y escribir la configuración del software. Para finalizar, guarda este archivo como <strong>inicio.bat</strong> en la misma carpeta que se encuentra el software de minado para facilitarte el proceso de configuración.</p>
 <h3 id="minado-con-cpu">Minado con CPU:</h3>
-<p><code>minerd -a scrypt -o stratum+tcp://174.138.59.111:3008 -u &lt;Tu dirección de wallet&gt; -p x</code></p>
+<p><code>minerd -a scrypt -o stratum+tcp://pool.chaucha.cl:3008 -u &lt;Tu dirección de wallet&gt; -p x</code></p>
 <h3 id="minado-con-gpu">Minado con GPU</h3>
-<p><code>ccminer-x64 -a scrypt -o stratum+tcp://174.138.59.111:3008 -u &lt;Tu dirección de wallet&gt; -p x</code></p>
+<p><code>ccminer-x64 -a scrypt -o stratum+tcp://pool.chaucha.cl:3008 -u &lt;Tu dirección de wallet&gt; -p x</code></p>
 <p><em>Recuerda cambiar donde dice <code>&lt;Tu dirección de wallet&gt;</code> por la dirección que obtuviste en el primer paso de esta guía.</em></p>
 <p>Al ejecutar el archivo de inicio el software de minado se conectará automaticamente a la <em>Mining Pool</em> y comenzará a minar.</p>
 <h2 id="verificando-que-estes-minando-correctamente">Verificando que estes minando correctamente</h2>
