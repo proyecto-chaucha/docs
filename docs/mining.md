@@ -26,12 +26,12 @@ Recomendamos los siguientes 2 software para minar con tu tarjeta de video dedica
 Una vez que descargues el software de minado necesitas descomprimirlo en una carpeta, abrir el *Bloc de notas* y escribir la configuración del software. Para finalizar, guarda este archivo como **inicio.bat** en la misma carpeta que se encuentra el software de minado para facilitarte el proceso de configuración.
 
 ### Minado con CPU:
-`minerd -a scrypt -o stratum+tcp://pool.chaucha.cl:3008 -u <Tu dirección de wallet> -p x `
+`minerd -a scrypt -o stratum+tcp://pool.chaucha.cl:3008 -u ADDRESS -p x `
 
 ### Minado con GPU
-`ccminer-x64 -a scrypt -o stratum+tcp://pool.chaucha.cl:3008 -u <Tu dirección de wallet> -p x `
+`ccminer-x64 -a scrypt -o stratum+tcp://pool.chaucha.cl:3008 -u ADDRESS -p x `
 
-*Recuerda cambiar donde dice `<Tu dirección de wallet>` por la dirección que obtuviste en el primer paso de esta guía.*
+**Recuerda cambiar donde dice `ADDRESS` por la dirección que obtuviste en el primer paso de esta guía.**
 
 Al ejecutar el archivo de inicio el software de minado se conectará automaticamente a la *Mining Pool* y comenzará a minar.
 
