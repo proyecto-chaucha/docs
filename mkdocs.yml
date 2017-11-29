@@ -3,6 +3,7 @@ pages:
     - Inicio: index.md
     - Introducción: intro.md
     - Como minar Chauchas: mining.md
+    - Tips de seguridad: sec.md
 theme:
   name: 'material'
   font:
