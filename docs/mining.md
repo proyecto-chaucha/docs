@@ -29,7 +29,12 @@ Una vez que descargues el software de minado necesitas descomprimirlo en una car
 `minerd -a scrypt -o stratum+tcp://pool.chaucha.cl:3008 -u ADDRESS -p x `
 
 ### Minado con GPU
+
+* Nvidia
 `ccminer-x64 -a scrypt -o stratum+tcp://pool.chaucha.cl:3008 -u ADDRESS -p x `
+
+* AMD
+`cgminer.exe --scrypt --url=stratum+tcp://pool.chaucha.cl:3008 --ADDRESS:x`
 
 **Recuerda cambiar donde dice `ADDRESS` por la dirección que obtuviste en el primer paso de esta guía.**
 
