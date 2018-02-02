@@ -46,7 +46,7 @@ Al ejecutar el archivo de inicio el software de minado se conectará automaticam
 
 ## Verificando que estes minando correctamente
 
-Puedes ver las estadisticas de minado en la [sección de workers de la Mining Pool](http://artesa.chaucha.cl/workers). 
+Puedes ver las estadisticas de minado en la sección [Worker Information](http://artesa.chaucha.cl/public/index.php?page=dashboard). 
 
 Busca la dirección de tu wallet en la lista y podrás ver el *Hashrate* real que esta obteniendo la *Mining Pool* por el trabajo de tu computadora.
 
