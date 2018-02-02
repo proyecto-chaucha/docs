@@ -10,7 +10,9 @@ Las direcciones de la Red Chaucha se obtienen utilizando la Chauchera, que es un
 
 Al descargar la chauchera y ejecutarla por primera vez, esta comenzara a descargar toda la cadena de transacciones que hay hasta ese momento. 
 
-Mientras se sincroniza tu chauchera puedes ir al menu y ver la opcion *Recibir*, en donde verás un codigo (en la seccion dirección) que es tu billetera virtual o wallet, con ese codigo podras minar chauchas, es basicamente una direccion a donde irán tus chauchas minadas.
+Mientras se sincroniza tu chauchera puedes ir al menu superior y ver la opcion *Recibir*, en donde verás un codigo (en la seccion dirección) que es tu billetera virtual o wallet, con ese codigo podras minar chauchas, es basicamente una direccion a donde irán tus chauchas minadas.
+
+![Screenshot](img/recibiendo.png)
 
 ## Instalación y uso del software de minado
 
