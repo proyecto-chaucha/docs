@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/",
-            "text": "Bienvenido a Chaucha Docs !\n\n\nAqu\u00ed encontrar\u00e1s toda la informaci\u00f3n generada por el \nProyecto Chaucha\n, que te ayudar\u00e1 a aprender sobre el mundo de las criptomonedas de una manera f\u00e1cil y sencilla.\n\n\n\u00cdndice\n\n\n\n\nIntroducci\u00f3n al mundo de las criptomonedas\n\n\nComo minar Chauchas\n - (Aporte de \nGoro2030\n)\n\n\nTips de seguridad\n\n\n\n\nComo aportar\n\n\nSi piensas que alg\u00fan tema presente en esta documentaci\u00f3n es erroneo o quieres ayudarnos a mejorar este sitio, por favor visita el \nrepositorio\n de Chaucha Docs en GitHub, all\u00ed encontrar\u00e1s todo el c\u00f3digo fuente de este sitio web para modificarlo a tu manera.",
+            "text": "Bienvenido a Chaucha Docs !\n\n\nAqu\u00ed encontrar\u00e1s toda la informaci\u00f3n generada por el \nProyecto Chaucha\n, que te ayudar\u00e1 a aprender sobre el mundo de las criptomonedas de una manera f\u00e1cil y sencilla.\n\n\n\u00cdndice\n\n\n\n\nIntroducci\u00f3n al mundo de las criptomonedas\n\n\nComo minar Chauchas\n - (Aporte de \nGoro2030\n)\n\n\nTips de seguridad\n\n\nHODL.cl\n - (Aporte de \nMike sources\n)\n\n\n\n\nComo aportar\n\n\nSi piensas que alg\u00fan tema presente en esta documentaci\u00f3n es erroneo o quieres ayudarnos a mejorar este sitio, por favor visita el \nrepositorio\n de Chaucha Docs en GitHub, all\u00ed encontrar\u00e1s todo el c\u00f3digo fuente de este sitio web para modificarlo a tu manera.",
             "title": "Inicio"
         },
         {
@@ -12,7 +12,7 @@
         },
         {
             "location": "/#indice",
-            "text": "Introducci\u00f3n al mundo de las criptomonedas  Como minar Chauchas  - (Aporte de  Goro2030 )  Tips de seguridad",
+            "text": "Introducci\u00f3n al mundo de las criptomonedas  Como minar Chauchas  - (Aporte de  Goro2030 )  Tips de seguridad  HODL.cl  - (Aporte de  Mike sources )",
             "title": "\u00cdndice"
         },
         {
@@ -77,7 +77,7 @@
         },
         {
             "location": "/mining/",
-            "text": "Como minar Chauchas\n\n\nPara poder minar criptomonedas son necesarias dos cosas: Una \ndirecci\u00f3n\n v\u00e1lida para almacenar tus ganancias y un \nsoftware de minado\n espec\u00edfico para tus requerimientos de Hardware.\n\n\nIMPORTANTE: MUCHOS ANTIVIRUS DETECTAN ESTAS APLICACIONES COMO VIRUS, NO LO SON! DEBES CREAR ALGUNA REGLA EN TU ANTIVIRUS PARA QUE NO LOS BORRE O BLOQUEE.\n\n\n1. Obtener una direcci\u00f3n valida (Wallet) :\n\n\nLas direcciones de la Red Chaucha se obtienen utilizando la Chauchera, que es un software que te permite enviar y recibir Chauchas desde tu computadora. Este software esta disponible en la \np\u00e1gina web\n oficial del Proyecto Chaucha, en la secci\u00f3n de \nDescargas\n.\n\n\nAl descargar la chauchera y ejecutarla por primera vez, esta comenzara a descargar toda la cadena de transacciones que hay hasta ese momento. \n\n\nMientras se sincroniza tu chauchera puedes ir al menu y ver la opcion \nRecibir\n, en donde ver\u00e1s un codigo (en la seccion direcci\u00f3n) que es tu billetera virtual o wallet, con ese codigo podras minar chauchas, es basicamente una direccion a donde ir\u00e1n tus chauchas minadas.\n\n\n2. Instalaci\u00f3n y uso del software de minado\n\n\nEl software que necesitar\u00e1s para minar criptomonedas depende de las especificaciones t\u00e9cnicas de tus computadora, y es recomendable realizar el proceso de minado con una buena ventilaci\u00f3n del equipo para no sobrecalentar las piezas internas.\n\n\nEl proceso de minado lleva a tu computadora a un estado de estr\u00e9s extremo, que acorta la esperanza de vida del dispositivo y puede llegar a causar da\u00f1os si es realizada por tiempos prolongados. \n\n\nRecomendamos los siguientes 2 software para minar con tu tarjeta de video dedicada (GPU) o usando los recursos del procesador de tu computadora (CPU).\n\n\n\n\nGPU: \nccminer (NVIDIA)\n y \ncgminer (AMD)\n\n\nCPU: \ncpuminer\n\n\n\n\nUna vez que descargues el software de minado necesitas descomprimirlo en una carpeta, abrir el \nBloc de notas\n y escribir la configuraci\u00f3n del software. Para finalizar, guarda este archivo como \ninicio.bat\n en la misma carpeta que se encuentra el software de minado para facilitarte el proceso de configuraci\u00f3n.\n\n\nMinado con CPU:\n\n\nminerd -a scrypt -o stratum+tcp://pool.chaucha.cl:3008 -u ADDRESS -p x\n\n\nMinado con GPU\n\n\nccminer-x64 -a scrypt -o stratum+tcp://pool.chaucha.cl:3008 -u ADDRESS -p x\n\n\nRecuerda cambiar donde dice \nADDRESS\n por la direcci\u00f3n que obtuviste en el primer paso de esta gu\u00eda.\n\n\nAl ejecutar el archivo de inicio el software de minado se conectar\u00e1 automaticamente a la \nMining Pool\n y comenzar\u00e1 a minar.\n\n\nVerificando que estes minando correctamente\n\n\nPuedes ver las estadisticas de minado en la \nsecci\u00f3n de workers de la Mining Pool\n. \n\n\nBusca la direcci\u00f3n de tu wallet en la lista y podr\u00e1s ver el \nHashrate\n real que esta obteniendo la \nMining Pool\n por el trabajo de tu computadora.\n\n\nAdem\u00e1s de esto, puedes comprobar que el proceso de minado se esta desarrollando correctamente al observar la pantalla del software de minado.",
+            "text": "Como minar Chauchas\n\n\nPara poder minar criptomonedas son necesarias dos cosas: Una \ndirecci\u00f3n\n v\u00e1lida para almacenar tus ganancias y un \nsoftware de minado\n espec\u00edfico para tus requerimientos de Hardware.\n\n\nIMPORTANTE: MUCHOS ANTIVIRUS DETECTAN ESTAS APLICACIONES COMO VIRUS, NO LO SON! DEBES CREAR ALGUNA REGLA EN TU ANTIVIRUS PARA QUE NO LOS BORRE O BLOQUEE.\n\n\n1. Obtener una direcci\u00f3n valida (Wallet) :\n\n\nLas direcciones de la Red Chaucha se obtienen utilizando la Chauchera, que es un software que te permite enviar y recibir Chauchas desde tu computadora. Este software esta disponible en la \np\u00e1gina web\n oficial del Proyecto Chaucha, en la secci\u00f3n de \nDescargas\n.\n\n\nAl descargar la chauchera y ejecutarla por primera vez, esta comenzara a descargar toda la cadena de transacciones que hay hasta ese momento. \n\n\nMientras se sincroniza tu chauchera puedes ir al menu y ver la opcion \nRecibir\n, en donde ver\u00e1s un codigo (en la seccion direcci\u00f3n) que es tu billetera virtual o wallet, con ese codigo podras minar chauchas, es basicamente una direccion a donde ir\u00e1n tus chauchas minadas.\n\n\n2. Instalaci\u00f3n y uso del software de minado\n\n\nEl software que necesitar\u00e1s para minar criptomonedas depende de las especificaciones t\u00e9cnicas de tus computadora, y es recomendable realizar el proceso de minado con una buena ventilaci\u00f3n del equipo para no sobrecalentar las piezas internas.\n\n\nEl proceso de minado lleva a tu computadora a un estado de estr\u00e9s extremo, que acorta la esperanza de vida del dispositivo y puede llegar a causar da\u00f1os si es realizada por tiempos prolongados. \n\n\nRecomendamos los siguientes 2 software para minar con tu tarjeta de video dedicada (GPU) o usando los recursos del procesador de tu computadora (CPU).\n\n\n\n\nGPU: \nccminer (NVIDIA)\n y \ncgminer (AMD)\n\n\nCPU: \ncpuminer\n\n\n\n\nUna vez que descargues el software de minado necesitas descomprimirlo en una carpeta, abrir el \nBloc de notas\n y escribir la configuraci\u00f3n del software. Para finalizar, guarda este archivo como \ninicio.bat\n en la misma carpeta que se encuentra el software de minado para facilitarte el proceso de configuraci\u00f3n.\n\n\nMinado con CPU:\n\n\nminerd -a scrypt -o stratum+tcp://artesa.chaucha.cl:3008 -u ADDRESS -p x\n\n\nMinado con GPU\n\n\n\n\n\n\nNvidia\n\nccminer-x64 -a scrypt -o stratum+tcp://artesa.chaucha.cl:3008 -u ADDRESS -p x\n\n\n\n\n\n\nAMD\n\ncgminer.exe --scrypt --url=stratum+tcp://artesa.chaucha.cl:3008 --ADDRESS:x\n\n\n\n\n\n\nRecuerda cambiar donde dice \nADDRESS\n por la direcci\u00f3n que obtuviste en el primer paso de esta gu\u00eda.\n\n\nAl ejecutar el archivo de inicio el software de minado se conectar\u00e1 automaticamente a la \nMining Pool\n y comenzar\u00e1 a minar.\n\n\nVerificando que estes minando correctamente\n\n\nPuedes ver las estadisticas de minado en la \nsecci\u00f3n de workers de la Mining Pool\n. \n\n\nBusca la direcci\u00f3n de tu wallet en la lista y podr\u00e1s ver el \nHashrate\n real que esta obteniendo la \nMining Pool\n por el trabajo de tu computadora.\n\n\nAdem\u00e1s de esto, puedes comprobar que el proceso de minado se esta desarrollando correctamente al observar la pantalla del software de minado.",
             "title": "Como minar Chauchas"
         },
         {
@@ -97,12 +97,12 @@
         },
         {
             "location": "/mining/#minado-con-cpu",
-            "text": "minerd -a scrypt -o stratum+tcp://pool.chaucha.cl:3008 -u ADDRESS -p x",
+            "text": "minerd -a scrypt -o stratum+tcp://artesa.chaucha.cl:3008 -u ADDRESS -p x",
             "title": "Minado con CPU:"
         },
         {
             "location": "/mining/#minado-con-gpu",
-            "text": "ccminer-x64 -a scrypt -o stratum+tcp://pool.chaucha.cl:3008 -u ADDRESS -p x  Recuerda cambiar donde dice  ADDRESS  por la direcci\u00f3n que obtuviste en el primer paso de esta gu\u00eda.  Al ejecutar el archivo de inicio el software de minado se conectar\u00e1 automaticamente a la  Mining Pool  y comenzar\u00e1 a minar.",
+            "text": "Nvidia ccminer-x64 -a scrypt -o stratum+tcp://artesa.chaucha.cl:3008 -u ADDRESS -p x    AMD cgminer.exe --scrypt --url=stratum+tcp://artesa.chaucha.cl:3008 --ADDRESS:x    Recuerda cambiar donde dice  ADDRESS  por la direcci\u00f3n que obtuviste en el primer paso de esta gu\u00eda.  Al ejecutar el archivo de inicio el software de minado se conectar\u00e1 automaticamente a la  Mining Pool  y comenzar\u00e1 a minar.",
             "title": "Minado con GPU"
         },
         {
@@ -134,6 +134,71 @@
             "location": "/sec/#paper-wallet",
             "text": "Si no conf\u00edas en tus capacidades para mantener un respaldo de tu archivos, es posible crear algo llamado  Monedero de papel , en donde se almacenan solo las llaves privadas correspondiente a tus direcciones de Chauchera en un papel (impreso o escrito).  Con esto te proteger\u00e1s de ataques inform\u00e1ticos, pero tendras que recordar el lugar f\u00edsico en donde dejaste su Chauchera de papel.  Para conocer la llave privada de una de tus direcciones presentes en tu Chauchera debes usar la  Ventana de depuraci\u00f3n  que se encuentra en la pesta\u00f1a de  Ayuda , en la parte superior de la Chauchera.  En la ventana de depuraci\u00f3n aparecer\u00e1 un resumen del funcionamiento de la Red Chaucha junto con una  Consola . En esta consola puedes utilizar el comando  dumpprivkey  seguido de tu direcci\u00f3n de Chauchera para conocer la llave privada.  dumpprivkey cWS7AmPfQTfj9YyyvZqekX1piK4Wa8jqK1\nZ4NZoPUMfXtB6vsQfTKWyZRnDQTUAtSazy17gtxpyESUhkdd7jVe  Escribe la llave privada en un pedazo de papel, teniendo en cuenta las letras en mayuscula o minuscula, distinguiendo los ceros de las letras O y manteniendo una letra clara.  Cuando quieras volver a incluir tu direcci\u00f3n en otra Chauchera puedes utilizar el comando  importprivkey  seguido de tu llave privada.",
             "title": "Paper Wallet"
+        },
+        {
+            "location": "/hodl/",
+            "text": "HODL!\n\n\nEste documento fue generado por la comunidad de HODL.cl y fue adjuntado a Chaucha Docs por su originalidad y su aporte educativo.\n\n\n\u00bfQu\u00e9 es HODL.cl?\n\n\nUn grupo abierto a nuevos integrantes, para discutir de cripto monedas y cripto tokens. Compartimos informaci\u00f3n entre nosotros para intentar educarnos m\u00e1s al respecto de estas tecnolog\u00edas y monedas.\n\n\n\u00bfQu\u00e9 significa HODL?\n\n\nSignifica \nMantener tu posici\u00f3n en criptomonedas\n, es el acto de comprar una cripto moneda y no venderla. Se dice HODL y no HOLD debido a que en un foro original de Bitcoin una persona lo escribi\u00f3 mal a prop\u00f3sito y luego todos lo seguimos (similar a usar exclamaciones con n\u00fameros \"uno\" !!!!111).\n\n\n\u00bfC\u00f3mo comprar criptomonedas?\n\n\nSugerimos bolsas locales en Chile como \nbuda.com\n y \ncryptomkt\n, por seguridad, ya que tienen bastante tiempo funcionando.\n\n\nEstas bolsas est\u00e1n inscritas en la Unidad de An\u00e1lisis Financiero (UAF) y por lo mismo sus servicios est\u00e1n regulados por la ley 19.913 para prevenir el lavado de activos y el financiamiento del terrorismo, esto significa que deber\u00e1s informar tus datos personales para comprar y vender en ellas (Know your customer - KYC).\n\n\n\u00bfSi transo criptomonedas, debo pagar impuestos?\n\n\nEn Chile toda operaci\u00f3n, de cualquier \u00edndole, que genere ganancia por mayor valor debe pagar impuesto (diferencia entre venta y compra), por lo que el SII exige que quien transe declare este mayor valor y pague los impuestos correspondientes.\n\n\n\u00bfCu\u00e1ntas cripto monedas recomiendan comprar?\n\n\nSugerimos partir con un n\u00famero muy bajo, sobretodo si eres nuevo y no estas seguro, con un m\u00e1ximo del 1% de tu dinero disponible. Nuestra opini\u00f3n es que compres una vez informado de las caracter\u00edsticas y riesgos de estas monedas, no antes.\n\n\nD\u00f3nde puedo obtener m\u00e1s informaci\u00f3n?\n\n\nAlgunos videos b\u00e1sicos:\n\n\n\n\n\u00bfQu\u00e9 es Bitcoin?\n\n\n\u00bfQu\u00e9 es Block chain?\n\n\n\n\nDespu\u00e9s sugerimos leer \u00e9stas p\u00e1ginas de Wikipedia (en este orden):\n\n\n\n\nBitcoin\n\n\nCriptomoneda\n\n\nBlock chain\n\n\n\n\nM\u00e1s avanzado:\n\n\n\n\nEthereum\n\n\nSmart Contract\n\n\n\n\nOtra informaci\u00f3n \u00fatil:\n\n\n\n\nC\u00f3mo funciona la econom\u00eda actual\n (Video - Ray Dalio)\n\n\n\n\nNoticias:\n\n\n\n\nCoin Telegraph Espa\u00f1ol\n\n\nCripto Noticias\n\n\n\n\n\u00bfC\u00f3mo almaceno mis criptomonedas?\n\n\nDe m\u00e1s seguro a menos seguro: - Sugerimos usar una Billetera de Hardware como Trezor o Ledger Nano S, c\u00f3mpralas en las tiendas oficiales. - En segunda instancia, se sugiere usar billeteras para m\u00f3viles, y tener mucho cuidado de respaldarlas, como Mycelium. - En \u00faltima instancia, y bajo tu propio riesgo, una Billetera para PC/Mac oficial de la criptomoneda, inf\u00f3rmate mucho antes de usarlas con grandes cantidades.\n\n\n\u00bfC\u00f3mo puedo aportar?\n\n\n\u00a1Genial! puedes hacerlo de dos formas, ingresando la pregunta/respuesta que quieras agregar en este \nformulario para agregar informaci\u00f3n\n. O tambi\u00e9n puedes crear un Issue en \nGithub\n (si eres un nerd), ya que hodl.cl es opensource.\n\n\n\u00bfTienen redes sociales?\n\n\nSi, tenemos un grupo cerrado, eres bienvenid@! s\u00f3lo debes enviarnos tu usuario de t\u00e9legram a este \nformulario\n o enviarme un mensaje \n@MikeSources\n\n\n\u00bfEste grupo tiene alg\u00fan costo?\n\n\n\u00a1Ninguno! y al contrario, nuestra recomendaci\u00f3n es preguntar en el grupo antes de que tengas que pagar por alg\u00fan servicio relacionado con criptomonedas, para evitar estafas!\n\n\nMe est\u00e1n ofreciendo muchas ganancias r\u00e1pidas al invertir en bitcoin \u00bfque hago?\n\n\n\u00a1Ten mucho cuidado! Puede ser una estafa, f\u00edjate bien en las caracter\u00edsticas del servicio que te ofrecen, cuando \"Es muy bueno para ser verdad\" es que realmente es muy bueno para ser verdad, sugerimos preguntar en el grupo por consejos al respecto.\n\n\nSi tienes sugerencias de temas o aportes que realizar nos puedes encontrar en \ntelegram\n.\n\n\nHODL Team Chile",
+            "title": "HODL !"
+        },
+        {
+            "location": "/hodl/#hodl",
+            "text": "Este documento fue generado por la comunidad de HODL.cl y fue adjuntado a Chaucha Docs por su originalidad y su aporte educativo.",
+            "title": "HODL!"
+        },
+        {
+            "location": "/hodl/#que-es-hodlcl",
+            "text": "Un grupo abierto a nuevos integrantes, para discutir de cripto monedas y cripto tokens. Compartimos informaci\u00f3n entre nosotros para intentar educarnos m\u00e1s al respecto de estas tecnolog\u00edas y monedas.",
+            "title": "\u00bfQu\u00e9 es HODL.cl?"
+        },
+        {
+            "location": "/hodl/#que-significa-hodl",
+            "text": "Significa  Mantener tu posici\u00f3n en criptomonedas , es el acto de comprar una cripto moneda y no venderla. Se dice HODL y no HOLD debido a que en un foro original de Bitcoin una persona lo escribi\u00f3 mal a prop\u00f3sito y luego todos lo seguimos (similar a usar exclamaciones con n\u00fameros \"uno\" !!!!111).",
+            "title": "\u00bfQu\u00e9 significa HODL?"
+        },
+        {
+            "location": "/hodl/#como-comprar-criptomonedas",
+            "text": "Sugerimos bolsas locales en Chile como  buda.com  y  cryptomkt , por seguridad, ya que tienen bastante tiempo funcionando.  Estas bolsas est\u00e1n inscritas en la Unidad de An\u00e1lisis Financiero (UAF) y por lo mismo sus servicios est\u00e1n regulados por la ley 19.913 para prevenir el lavado de activos y el financiamiento del terrorismo, esto significa que deber\u00e1s informar tus datos personales para comprar y vender en ellas (Know your customer - KYC).",
+            "title": "\u00bfC\u00f3mo comprar criptomonedas?"
+        },
+        {
+            "location": "/hodl/#si-transo-criptomonedas-debo-pagar-impuestos",
+            "text": "En Chile toda operaci\u00f3n, de cualquier \u00edndole, que genere ganancia por mayor valor debe pagar impuesto (diferencia entre venta y compra), por lo que el SII exige que quien transe declare este mayor valor y pague los impuestos correspondientes.",
+            "title": "\u00bfSi transo criptomonedas, debo pagar impuestos?"
+        },
+        {
+            "location": "/hodl/#cuantas-cripto-monedas-recomiendan-comprar",
+            "text": "Sugerimos partir con un n\u00famero muy bajo, sobretodo si eres nuevo y no estas seguro, con un m\u00e1ximo del 1% de tu dinero disponible. Nuestra opini\u00f3n es que compres una vez informado de las caracter\u00edsticas y riesgos de estas monedas, no antes.",
+            "title": "\u00bfCu\u00e1ntas cripto monedas recomiendan comprar?"
+        },
+        {
+            "location": "/hodl/#donde-puedo-obtener-mas-informacion",
+            "text": "Algunos videos b\u00e1sicos:   \u00bfQu\u00e9 es Bitcoin?  \u00bfQu\u00e9 es Block chain?   Despu\u00e9s sugerimos leer \u00e9stas p\u00e1ginas de Wikipedia (en este orden):   Bitcoin  Criptomoneda  Block chain   M\u00e1s avanzado:   Ethereum  Smart Contract   Otra informaci\u00f3n \u00fatil:   C\u00f3mo funciona la econom\u00eda actual  (Video - Ray Dalio)   Noticias:   Coin Telegraph Espa\u00f1ol  Cripto Noticias",
+            "title": "D\u00f3nde puedo obtener m\u00e1s informaci\u00f3n?"
+        },
+        {
+            "location": "/hodl/#como-almaceno-mis-criptomonedas",
+            "text": "De m\u00e1s seguro a menos seguro: - Sugerimos usar una Billetera de Hardware como Trezor o Ledger Nano S, c\u00f3mpralas en las tiendas oficiales. - En segunda instancia, se sugiere usar billeteras para m\u00f3viles, y tener mucho cuidado de respaldarlas, como Mycelium. - En \u00faltima instancia, y bajo tu propio riesgo, una Billetera para PC/Mac oficial de la criptomoneda, inf\u00f3rmate mucho antes de usarlas con grandes cantidades.",
+            "title": "\u00bfC\u00f3mo almaceno mis criptomonedas?"
+        },
+        {
+            "location": "/hodl/#como-puedo-aportar",
+            "text": "\u00a1Genial! puedes hacerlo de dos formas, ingresando la pregunta/respuesta que quieras agregar en este  formulario para agregar informaci\u00f3n . O tambi\u00e9n puedes crear un Issue en  Github  (si eres un nerd), ya que hodl.cl es opensource.",
+            "title": "\u00bfC\u00f3mo puedo aportar?"
+        },
+        {
+            "location": "/hodl/#tienen-redes-sociales",
+            "text": "Si, tenemos un grupo cerrado, eres bienvenid@! s\u00f3lo debes enviarnos tu usuario de t\u00e9legram a este  formulario  o enviarme un mensaje  @MikeSources",
+            "title": "\u00bfTienen redes sociales?"
+        },
+        {
+            "location": "/hodl/#este-grupo-tiene-algun-costo",
+            "text": "\u00a1Ninguno! y al contrario, nuestra recomendaci\u00f3n es preguntar en el grupo antes de que tengas que pagar por alg\u00fan servicio relacionado con criptomonedas, para evitar estafas!",
+            "title": "\u00bfEste grupo tiene alg\u00fan costo?"
+        },
+        {
+            "location": "/hodl/#me-estan-ofreciendo-muchas-ganancias-rapidas-al-invertir-en-bitcoin-que-hago",
+            "text": "\u00a1Ten mucho cuidado! Puede ser una estafa, f\u00edjate bien en las caracter\u00edsticas del servicio que te ofrecen, cuando \"Es muy bueno para ser verdad\" es que realmente es muy bueno para ser verdad, sugerimos preguntar en el grupo por consejos al respecto.  Si tienes sugerencias de temas o aportes que realizar nos puedes encontrar en  telegram .  HODL Team Chile",
+            "title": "Me est\u00e1n ofreciendo muchas ganancias r\u00e1pidas al invertir en bitcoin \u00bfque hago?"
         }
     ]
 }
