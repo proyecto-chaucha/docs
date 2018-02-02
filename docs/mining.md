@@ -26,15 +26,15 @@ Recomendamos los siguientes 2 software para minar con tu tarjeta de video dedica
 Una vez que descargues el software de minado necesitas descomprimirlo en una carpeta, abrir el *Bloc de notas* y escribir la configuración del software. Para finalizar, guarda este archivo como **inicio.bat** en la misma carpeta que se encuentra el software de minado para facilitarte el proceso de configuración.
 
 ### Minado con CPU:
-`minerd -a scrypt -o stratum+tcp://pool.chaucha.cl:3008 -u ADDRESS -p x `
+`minerd -a scrypt -o stratum+tcp://artesa.chaucha.cl:3008 -u ADDRESS -p x `
 
 ### Minado con GPU
 
 * Nvidia
-`ccminer-x64 -a scrypt -o stratum+tcp://pool.chaucha.cl:3008 -u ADDRESS -p x `
+`ccminer-x64 -a scrypt -o stratum+tcp://artesa.chaucha.cl:3008 -u ADDRESS -p x `
 
 * AMD
-`cgminer.exe --scrypt --url=stratum+tcp://pool.chaucha.cl:3008 --ADDRESS:x`
+`cgminer.exe --scrypt --url=stratum+tcp://artesa.chaucha.cl:3008 --ADDRESS:x`
 
 **Recuerda cambiar donde dice `ADDRESS` por la dirección que obtuviste en el primer paso de esta guía.**
 
@@ -42,7 +42,7 @@ Al ejecutar el archivo de inicio el software de minado se conectará automaticam
 
 ## Verificando que estes minando correctamente
 
-Puedes ver las estadisticas de minado en la [sección de workers de la Mining Pool](http://pool.chaucha.cl/workers). 
+Puedes ver las estadisticas de minado en la [sección de workers de la Mining Pool](http://artesa.chaucha.cl/workers). 
 
 Busca la dirección de tu wallet en la lista y podrás ver el *Hashrate* real que esta obteniendo la *Mining Pool* por el trabajo de tu computadora.
 
