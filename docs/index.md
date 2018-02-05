@@ -12,7 +12,7 @@ Aquí encontrarás toda la información generada por el [Proyecto Chaucha](http:
 ## Testimonios
 * Leo Quezada: "[La Chaucha y los dibujos](/leo)"
 
-## Información sobre Chaucha
+## Chaucha
 * [Whitepaper](/whitepaper) (Rev. 0.1)
 
 ## Como aportar
