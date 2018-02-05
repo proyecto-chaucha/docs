@@ -1,20 +1,24 @@
 site_name: Chaucha Docs
 pages:
     - Inicio: index.md
-    - Introducción: intro.md
-    - Como minar Chauchas: mining.md
-    - Tips de seguridad: sec.md
-    - HODL !: hodl.md
+    - Aportes de la comunidad:
+      - Introducción: intro.md
+      - Como minar Chauchas: mining.md
+      - Tips de seguridad: sec.md
+      - HODL !: hodl.md
+    - Chaucha:
+      - Whitepaper: whitepaper.md
+    - Testimonios:
+      - La Chaucha y los dibujos: leo.md
 theme:
   name: 'material'
   font:
-    text: 'Open Sans'
-    code: 'Ubuntu Mono'
+    text: 'Montserrat'
+    code: 'Space Mono'
   palette:
     primary: 'pink'
     accent: 'pink'
-  logo:
-      icon: 'home'
+  logo: 'img/chaucha.svg'
 
   favicon: 'img/favicon.ico'
   language: 'es'
@@ -30,3 +34,5 @@ extra:
       link: 'https://facebook.com/proyectochaucha'
     - type: 'telegram'
       link: 'https://t.me/chaucha'
+  search:
+    language: 'en, es'

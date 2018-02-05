@@ -12,9 +12,9 @@ La manera más segura de controlar tus Chauchas es utilizando la [Chauchera](htt
 
 Todas las direcciones que se encuentran en tu Chauchera se almacenan en un archivo llamado **wallet.dat** que se ubica en distintas carpetas dependiendo de tu sistema operativo.
 
-* Linux: ~/.chaucha/wallet.dat
-* Windows: %APPDATA%/chaucha/wallet.dat
-* OSX: ~/Library/Application Support/chaucha/wallet.dat
+* **Linux:** ~/.chaucha/wallet.dat
+* **Windows:** %APPDATA%/chaucha/wallet.dat
+* **OSX:** ~/Library/Application Support/chaucha/wallet.dat
  
 **ADVERTENCIA: modificar cualquier archivo dentro de esta carpeta puede alterar el funcionamiento correcto de la Chauchera.**
 
@@ -43,7 +43,7 @@ Para conocer la llave privada de una de tus direcciones presentes en tu Chaucher
 En la ventana de depuración aparecerá un resumen del funcionamiento de la Red Chaucha junto con una *Consola*. En esta consola puedes utilizar el comando **dumpprivkey** seguido de tu dirección de Chauchera para conocer la llave privada.
 
 ```
-dumpprivkey cWS7AmPfQTfj9YyyvZqekX1piK4Wa8jqK1
+>> dumpprivkey cWS7AmPfQTfj9YyyvZqekX1piK4Wa8jqK1
 Z4NZoPUMfXtB6vsQfTKWyZRnDQTUAtSazy17gtxpyESUhkdd7jVe
 ```
 
