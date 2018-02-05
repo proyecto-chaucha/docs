@@ -17,7 +17,7 @@
       
         <meta name="lang:clipboard.copied" content="Copiado al portapapeles">
       
-        <meta name="lang:search.language" content="es">
+        <meta name="lang:search.language" content="en, es">
       
         <meta name="lang:search.result.none" content="No se encontraron documentos">
       
@@ -46,8 +46,8 @@
     
     
       
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,700|Ubuntu+Mono">
-        <style>body,input{font-family:"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Ubuntu Mono","Courier New",Courier,monospace}</style>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,400i,700|Space+Mono">
+        <style>body,input{font-family:"Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Space Mono","Courier New",Courier,monospace}</style>
       
       <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     
@@ -83,7 +83,7 @@
       <div class="md-flex__cell md-flex__cell--shrink">
         <a href=".." title="Chaucha Docs" class="md-header-nav__button md-logo">
           
-            <i class="md-icon">home</i>
+            <img src="../img/chaucha.svg" width="24" height="24">
           
         </a>
       </div>
@@ -179,7 +179,7 @@
   <label class="md-nav__title md-nav__title--site" for="drawer">
     <span class="md-nav__button md-logo">
       
-        <i class="md-icon">home</i>
+        <img src="../img/chaucha.svg" width="24" height="24">
       
     </span>
     Chaucha Docs
@@ -225,6 +225,27 @@
       
       
 
+  
+
+
+  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2" type="checkbox" id="nav-2" checked>
+    
+    <label class="md-nav__link" for="nav-2">
+      Aportes de la comunidad
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-2">
+        Aportes de la comunidad
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
 
   <li class="md-nav__item">
     <a href="../intro/" title="Introducción" class="md-nav__link">
@@ -232,10 +253,10 @@
     </a>
   </li>
 
-    
-      
-      
-      
+        
+          
+          
+          
 
 
   <li class="md-nav__item">
@@ -244,10 +265,10 @@
     </a>
   </li>
 
-    
-      
-      
-      
+        
+          
+          
+          
 
 
   <li class="md-nav__item">
@@ -256,10 +277,10 @@
     </a>
   </li>
 
-    
-      
-      
-      
+        
+          
+          
+          
 
   
 
@@ -372,6 +393,83 @@
   
 </nav>
     
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-3" type="checkbox" id="nav-3">
+    
+    <label class="md-nav__link" for="nav-3">
+      Chaucha
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-3">
+        Chaucha
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../whitepaper/" title="Whitepaper" class="md-nav__link">
+      Whitepaper
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-4" type="checkbox" id="nav-4">
+    
+    <label class="md-nav__link" for="nav-4">
+      Testimonios
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-4">
+        Testimonios
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../leo/" title="La Chaucha y los dibujos" class="md-nav__link">
+      La Chaucha y los dibujos
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
   </li>
 
     
@@ -573,6 +671,20 @@
           </a>
         
         
+          <a href="../whitepaper/" title="Whitepaper" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Siguiente
+                </span>
+                Whitepaper
+              </span>
+            </div>
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-forward md-footer-nav__button"></i>
+            </div>
+          </a>
+        
       </nav>
     </div>
   
@@ -615,12 +727,16 @@
           <script src="../assets/javascripts/lunr/lunr.stemmer.support.js"></script>
           
             
+          
+            
               
               
                 <script src="../assets/javascripts/lunr/lunr.es.js"></script>
               
             
           
+          
+            <script src="../assets/javascripts/lunr/lunr.multi.js"></script>
           
         
       
