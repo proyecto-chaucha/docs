@@ -8,7 +8,7 @@ Al día siguiente tenía un evento de ilustración, esos donde va la gente ñoñ
 
 Entré al grupo de telegram, por esos días (bueno aun hoy) casi no hablaba, pero leía todo. De a poco fui aprendiendo tecnicismos y sobre el mundo de las crypto. En el mismo telegram veía que la gente enviaba stickers relacionados con la Chaucha y recordé que hace unos años un amigo me pidió que le hiciera un par de stickers para usarlos allí, así que se me ocurrió hacer algunos, mas que nada para auto promocionarme (lo siento jajaja), dibujé 4 o 5 unas horas antes de viajar.
 
-<center>![San César](img/dibujoleo.jpg)</center>
+![Stickers](img/dibujoleo.jpg)
 
 Tuvieron buena aceptación, me sugirieron varios stickers mas y algunos usuarios me donaron algunas Chauchas por el trabajo, lo que me motivó a seguir haciendo stickers, para alegrar el chat mas que nada (y de paso ver si caía alguna chauchita mas), con el paso de los días y con caída de precio y todo (inicios de enero) quise seguir aportando mi granito de arena al proyecto, Camilo (uno de los desarrolladores de Chaucha) me contactó varias veces para pedirme dibujos, pagados en Chaucha obviamente, y como lo encontré un medio de pago super cómodo y rápido decidí implementarlo para los pedidos en mi fan page, funcionó y sigue funcionando super bien.
 
