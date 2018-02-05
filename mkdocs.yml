@@ -16,7 +16,7 @@ theme:
     text: 'Montserrat'
     code: 'Space Mono'
   palette:
-    primary: 'pink'
+    primary: 'white'
     accent: 'pink'
   logo: 'img/chaucha.svg'
 
