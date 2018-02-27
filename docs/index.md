@@ -8,6 +8,7 @@ Aquí encontrarás toda la información generada por el [Proyecto Chaucha](http:
 * [Como minar Chauchas](/mining) - (Aporte de [Goro2030](https://github.com/Goro2030))
 * [Tips de seguridad](/sec)
 * [HODL.cl](/hodl) - (Aporte de [Mike sources](https://t.me/mikesources))
+* [Preguntas Frecuentes](/faq) - (Aporte de [Panterozo](https://github.com/panterozo))
 
 ## Testimonios
 * Leo Quezada: "[La Chaucha y los dibujos](/leo)"
