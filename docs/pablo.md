@@ -12,7 +12,7 @@ Cuando vi que la chaucha ahora valía alrededor de 20 pesos, me dije “oohh y m
 
 No sabia como tradear, así que con miedo vendi 20 CHA, luego compre 22 CHA con la ganancia y así haciendo scalping y aprendiendo de todo un poco, minería, trading, desarrollo sobre blockchain. 
 
-A final de diciembre me quebré la clavicula, y el medico me prohibiÓ programar por 1 mes, Solo podía leer o escribir en el teléfono. Ahí fue luego de leer mucho me metí en la minería, vendí algunas de mis CHA para comprar tarjetas de video, placa, fuente (de hecho creo que fui el que se llevó la últimas tarjetas de video de 2 tiendas) y fue todo un desafío armar un rig solo con la mano izquierda.
+A final de diciembre me quebré la clavicula, y el medico me prohibió programar por 1 mes, Solo podía leer o escribir en el teléfono. Ahí fue luego de leer mucho me metí en la minería, vendí algunas de mis CHA para comprar tarjetas de video, placa, fuente (de hecho creo que fui el que se llevó la últimas tarjetas de video de 2 tiendas) y fue todo un desafío armar un rig solo con la mano izquierda.
 
 ![Pablo](img/pablo.jpg)
 
