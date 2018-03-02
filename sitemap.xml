@@ -4,7 +4,7 @@
     
     <url>
      <loc>/</loc>
-     <lastmod>2018-02-27</lastmod>
+     <lastmod>2018-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -13,31 +13,31 @@
         
     <url>
      <loc>/intro/</loc>
-     <lastmod>2018-02-27</lastmod>
+     <lastmod>2018-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/mining/</loc>
-     <lastmod>2018-02-27</lastmod>
+     <lastmod>2018-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/sec/</loc>
-     <lastmod>2018-02-27</lastmod>
+     <lastmod>2018-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/hodl/</loc>
-     <lastmod>2018-02-27</lastmod>
+     <lastmod>2018-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/faq/</loc>
-     <lastmod>2018-02-27</lastmod>
+     <lastmod>2018-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -47,7 +47,7 @@
         
     <url>
      <loc>/whitepaper/</loc>
-     <lastmod>2018-02-27</lastmod>
+     <lastmod>2018-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -57,7 +57,13 @@
         
     <url>
      <loc>/leo/</loc>
-     <lastmod>2018-02-27</lastmod>
+     <lastmod>2018-03-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/pablo/</loc>
+     <lastmod>2018-03-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
