@@ -3,8 +3,6 @@ El concepto de pintar o [colorear](https://es.wikipedia.org/wiki/Moneda_coloread
 un ítem dentro de un conjunto. En este caso "pintar" una chaucha
 se refiere a darle un significado más allá de su valor financiero en el mercado.
 
-## ¿Por qué pintar?
-
 Pintar significa que puedes crear tu propio sistema de intercambio.
 Quizas tengas una tienda y desees premiar a tus clientes ofreciendole
 cupones de descuento. Tal ves quieras crear una [moneda local](https://es.wikipedia.org/wiki/Moneda_local). También puede ser un premio
@@ -95,6 +93,14 @@ Finalmente se pueden crear reglas específicas para estas chauchas pintadas.
 Como por ejemplo no poder ser utilizadas antes de una fecha o expirar después
 de un tiempo específico. Para esto es necesario programar las reglas de la
 transacción utilizando [Script](https://en.bitcoin.it/wiki/Script).
+
+## Analizando la Red
+Una gran forma de analizar la red en tiempo real es utilizar la api del [insight](http://insight.chaucha.cl/). Pueden ver la [documentación acá](https://github.com/bitpay/insight). La versión adaptada a chaucha está
+disponible en [https://github.com/proyecto-chaucha/chaucha-insight](https://github.com/proyecto-chaucha/chaucha-insight).
+
+Utilizando dichas herramientas uno puede escuchar eventos del websocket, 
+detectando una transacción a la dirección pintada y analizar el camino recorrido
+por las chauchas pintadas.
 
 ## Enlaces
 
