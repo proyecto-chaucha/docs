@@ -12,6 +12,7 @@ pages:
       - Whitepaper: whitepaper.md
     - Testimonios:
       - La Chaucha y los dibujos: leo.md
+      - La chauchera perdida: pablo.md
 theme:
   name: 'material'
   font:

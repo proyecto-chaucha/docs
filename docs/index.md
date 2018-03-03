@@ -13,6 +13,7 @@ Aquí encontrarás toda la información generada por el [Proyecto Chaucha](http:
 
 ## Testimonios
 * Leo Quezada: "[La Chaucha y los dibujos](/leo)"
+* Pablo: "[La chauchera perdida](/pablo)"
 
 ## Chaucha
 * [Whitepaper](/whitepaper) (Rev. 0.1)
