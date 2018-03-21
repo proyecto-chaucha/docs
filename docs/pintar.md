@@ -1,4 +1,4 @@
-# Cómo Pintar Chauchas
+# Pintar Chauchas
 El concepto de pintar o [colorear](https://es.wikipedia.org/wiki/Moneda_coloreada) se refiere al proceso de identificar
 un ítem dentro de un conjunto. En este caso "pintar" una chaucha
 se refiere a darle un significado más allá de su valor financiero en el mercado.
