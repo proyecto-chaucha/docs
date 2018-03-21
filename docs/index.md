@@ -6,7 +6,7 @@ Aquí encontrarás toda la información generada por el [Proyecto Chaucha](http:
 
 * [Introducción al mundo de las criptomonedas](/intro)
 * [Cómo minar Chauchas](/mining) - (Aporte de [Goro2030](https://github.com/Goro2030))
-* [Cómo pintar Chauchas](/pintar)
+* [Pintar Chauchas](/pintar)
 * [Tips de seguridad](/sec)
 * [HODL.cl](/hodl) - (Aporte de [Mike sources](https://t.me/mikesources))
 * [Preguntas Frecuentes](/faq) - (Aporte de [Panterozo](https://github.com/panterozo))
