@@ -17,13 +17,9 @@
      <changefreq>daily</changefreq>
     </url>
         
-    
-
-    
-        
     <url>
-     <loc>/whitepaper/</loc>
-     <lastmod>2018-03-26</lastmod>
+     <loc></loc>
+     <lastmod></lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -32,7 +28,7 @@
     
         
     <url>
-     <loc>/pintar/</loc>
+     <loc>/whitepaper/</loc>
      <lastmod>2018-03-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
