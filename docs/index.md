@@ -4,16 +4,23 @@ Aquí encontrarás toda la información generada por el [Proyecto Chaucha](http:
 
 ## Aportes de la comunidad
 
+### Nivel Principiante
+
 * [Introducción al mundo de las criptomonedas](/intro)
 * [Cómo minar Chauchas](/mining) - (Aporte de [Goro2030](https://github.com/Goro2030))
-* [Pintar Chauchas](/pintar)
 * [Tips de seguridad](/sec)
 * [HODL.cl](/hodl) - (Aporte de [Mike sources](https://t.me/mikesources))
 * [Preguntas Frecuentes](/faq) - (Aporte de [Panterozo](https://github.com/panterozo))
 
+### Nivel Avanzado
+
+* [¿Qué es un nodo?](/nodo)
+* [Pintar Chauchas](/pintar)
+
 ## Testimonios
 * Leo Quezada: "[La Chaucha y los dibujos](/leo)"
 * Pablo: "[La chauchera perdida](/pablo)"
+
 
 ## Chaucha
 * [Whitepaper](/whitepaper) (Rev. 0.1)

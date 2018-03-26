@@ -2,12 +2,15 @@ site_name: Chaucha Docs
 pages:
     - Inicio: index.md
     - Aportes de la comunidad:
-      - Introducción: intro.md
-      - Cómo minar Chauchas: mining.md
-      - Pintar Chauchas: pintar.md
-      - Tips de seguridad: sec.md
-      - HODL !: hodl.md
-      - Preguntas Frecuentes: faq.md
+      - Principiante:
+        - Introducción: intro.md
+        - Cómo minar Chauchas: mining.md
+        - HODL !: hodl.md
+        - Tips de seguridad: sec.md
+        - Preguntas Frecuentes: faq.md
+      - Avanzado:
+        - Qué es un nodo?: nodo.md
+        - Pintar Chauchas: pintar.md
     - Chaucha:
       - Whitepaper: whitepaper.md
     - Testimonios:
