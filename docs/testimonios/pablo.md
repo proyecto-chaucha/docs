@@ -14,7 +14,7 @@ No sabia como tradear, así que con miedo vendi 20 CHA, luego compre 22 CHA con 
 
 A final de diciembre me quebré la clavicula, y el medico me prohibió programar por 1 mes, solo podía leer o escribir en el teléfono. Ahí fue luego de leer mucho me metí en la minería, vendí algunas de mis CHA para comprar tarjetas de video, placa, fuente (de hecho creo que fui el que se llevó la últimas tarjetas de video de 2 tiendas) y fue todo un desafío armar un rig solo con la mano izquierda.
 
-![Pablo](img/pablo.jpg)
+![Pablo](../img/pablo.jpg)
 
 Y ahora ando minando de todo, menos chauchas, porque no me gusta arrendar para minar. 
 

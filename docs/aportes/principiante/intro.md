@@ -8,7 +8,7 @@ A modo de introducción decidí responder las preguntas más comunes que surgen 
 
 ## ¿Qué es una criptomoneda?
  
-Una criptomoneda vive dentro de una red que mantienen miles de usuarios a través del mundo, en donde cada uno de ellos tiene una copia exacta de todas las transacciones que se han hecho en esa red. Este archivo de transacciones es llamado **Blockchain**, y hace posible que ninguna persona pueda modificar elementos de la red sin que otro usuario se de cuenta de ello.
+Una criptomoneda vive dentro de una red que mantienen miles de usuarios a través del mundo, en donde cada uno de ellos tiene una copia exacta de todas las transacciones que se han hecho en esa red. Este archivo de transacciones es llamado *Blockchain*, y hace posible que ninguna persona pueda modificar elementos de la red sin que otro usuario se de cuenta de ello.
 
 Las criptomonedas se almacenan en monederos electrónicos (llamados Wallets), que permiten crear direcciones para recibir y enviar criptomonedas a otros usuarios a través de la red. Estas direcciones tienen asignadas una clave privada, que ayuda protegerlas de robos o ataques informáticos.
 
@@ -18,7 +18,7 @@ Cuando tu obtienes una criptomoneda en tu dirección de monedero, tu eres el con
 
 Existen dos métodos principales por los cuales se pueden obtener criptomonedas, que son el minado de la red y las transferencias entre usuarios. 
 
-Para que la red funcione correctamente es necesario que los usuarios le entreguen algo llamado *Hashing Power*, lo que permite que la red pueda verificar que todas las transacciones son correctas. Este proceso es llamado **Minado de criptomonedas**, a partir de que la red recompensa con criptomonedas a los usuarios que sacrifican parte de la capacidad de computo de sus dispositivos (computadores, tarjetas de video, placas ASIC).
+Para que la red funcione correctamente es necesario que los usuarios le entreguen algo llamado *Hashing Power*, lo que permite que la red pueda verificar que todas las transacciones son correctas. Este proceso es llamado *Minado de criptomonedas*, a partir de que la red recompensa con criptomonedas a los usuarios que sacrifican parte de la capacidad de computo de sus dispositivos (computadores, tarjetas de video, placas ASIC).
 
 Cuando los usuarios obtienen criptomonedas por el proceso de minado, pueden transferirlas libremente a cualquier otro usuario de la red, y si esta criptomoneda tiene un valor económico asociado, se puede ejecutar un trueque entre criptomonedas, bienes o servicios.
 
@@ -60,7 +60,7 @@ Las criptomonedas tienen la característica de no vincular a personas con las di
 
 En este tema existen ejemplos como el [Ransomware WannaCry](https://en.wikipedia.org/wiki/WannaCry_ransomware_attack), que afectó al mundo en mayo del año 2017 y cobraba una recompensa para desencriptar archivos de máquinas infectadas, y el famoso caso de [Silk Road](https://en.wikipedia.org/wiki/Silk_Road_(marketplace)), que permitía intercambiar bitcoins por drogas, armas y servicios ilegales.
 
-Dentro del mundo de las criptomonedas existen sistemas que son conocidos como **criptomonedas anónimas**, tales como [PIVX](https://pivx.org/), [Monero](https://getmonero.org/) y [Bytecoin](https://bytecoin.org/), y tienen la cualidad de omitir información clave dentro de su Blockchain para no delatar a los usuarios involucrados en las transacciones. Una vez que se intercambian bitcoins por una de estas monedas es imposible conocer el destino de la transacción.
+Dentro del mundo de las criptomonedas existen sistemas que son conocidos como *criptomonedas anónimas*, tales como [PIVX](https://pivx.org/), [Monero](https://getmonero.org/) y [Bytecoin](https://bytecoin.org/), y tienen la cualidad de omitir información clave dentro de su Blockchain para no delatar a los usuarios involucrados en las transacciones. Una vez que se intercambian bitcoins por una de estas monedas es imposible conocer el destino de la transacción.
 
 Otro uso de esa cualidad de anonimato es el lavado de dinero, que ocurre cuando personas o instituciones se transfieren a si mismas grandes cantidades de dinero para eliminar su precedencia. Este punto es investigado activamente y es considerado un delito.
 
@@ -68,7 +68,7 @@ Otro uso de esa cualidad de anonimato es el lavado de dinero, que ocurre cuando 
 
 Este término puede ser traducido como *un bien que puede ser almacenado y que mantiene su valor en el futuro*, como por ejemplo el oro o las joyas.
 
-Muchas personas compran criptomonedas para almacenarlas (termino conocido como **HODL**), y esto permite que la cantidad de monedas en circulación sea menor y aumente el precio por la disminución en la oferta. Este concepto se basa en el éxito de bitcoin y en la riqueza que generó a los primeros usuarios de esta criptomoneda, en base de la idea de que *si ya ocurrió, puede ocurrir otra vez*.
+Muchas personas compran criptomonedas para almacenarlas (termino conocido como *HODL*), y esto permite que la cantidad de monedas en circulación sea menor y aumente el precio por la disminución en la oferta. Este concepto se basa en el éxito de bitcoin y en la riqueza que generó a los primeros usuarios de esta criptomoneda, en base de la idea de que *si ya ocurrió, puede ocurrir otra vez*.
 
 Por este motivo, muchas personas invierten en criptomonedas que están en sus primeras etapas de desarrollo, e incluso existen ofrecimientos públicos de criptomonedas (llamados ICO), en donde se subastan *tokens* que serán equivalentes a criptomonedas que se desarrollarán en el futuro. Gracias a esto, se han podido financiar muchos proyectos innovadores sin la necesidad de inversión por parte de los desarrolladores o de otras entidades, pero también a producido un aumento considerable en la creación de criptomonedas que intentan ganar dinero fácil.
 
