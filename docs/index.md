@@ -1,6 +1,6 @@
 # Bienvenido a Chaucha Docs !
 
-Aquí encontrarás toda la información generada por el [Proyecto Chaucha](http://www.chaucha.cl/), que te ayudará a aprender sobre el mundo de las criptomonedas de una manera fácil y sencilla.
+Aquí encontrarás toda la información generada por el [Proyecto Chaucha](http://www.chaucha.cl/), que te ayudará a comprender el mundo de las criptomonedas de una manera fácil y sencilla.
 
 ## Como aportar
 
