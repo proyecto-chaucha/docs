@@ -2,12 +2,12 @@
     "docs": [
         {
             "location": "/",
-            "text": "Bienvenido a Chaucha Docs !\n\n\nAqu\u00ed encontrar\u00e1s toda la informaci\u00f3n generada por el \nProyecto Chaucha\n, que te ayudar\u00e1 a aprender sobre el mundo de las criptomonedas de una manera f\u00e1cil y sencilla.\n\n\nComo aportar\n\n\nSi piensas que alg\u00fan tema presente en esta documentaci\u00f3n es erroneo o quieres ayudarnos para mejorar este sitio, por favor visita el \nrepositorio\n de Chaucha Docs en GitHub, en donde encontrar\u00e1s el c\u00f3digo fuente de este sistema.\n\n\nLos posts estan escritos en formato \nMarkdown\n utilizando el framework \nMkDocs\n para compilar la versi\u00f3n web, que se encuentra alojada en Github Pages.\n\n\nColaboradores\n\n\nAgradecimientos a \nGoro2030\n, \nMike sources\n, \nPanterozo\n, \nLeo Quezada\n y Pablo por sus respectivos aportes a Chaucha Docs.",
+            "text": "Bienvenido a Chaucha Docs !\n\n\nAqu\u00ed encontrar\u00e1s toda la informaci\u00f3n generada por el \nProyecto Chaucha\n, que te ayudar\u00e1 a comprender el mundo de las criptomonedas de una manera f\u00e1cil y sencilla.\n\n\nComo aportar\n\n\nSi piensas que alg\u00fan tema presente en esta documentaci\u00f3n es erroneo o quieres ayudarnos para mejorar este sitio, por favor visita el \nrepositorio\n de Chaucha Docs en GitHub, en donde encontrar\u00e1s el c\u00f3digo fuente de este sistema.\n\n\nLos posts estan escritos en formato \nMarkdown\n utilizando el framework \nMkDocs\n para compilar la versi\u00f3n web, que se encuentra alojada en Github Pages.\n\n\nColaboradores\n\n\nAgradecimientos a \nGoro2030\n, \nMike sources\n, \nPanterozo\n, \nLeo Quezada\n y Pablo por sus respectivos aportes a Chaucha Docs.",
             "title": "Inicio"
         },
         {
             "location": "/#bienvenido-a-chaucha-docs",
-            "text": "Aqu\u00ed encontrar\u00e1s toda la informaci\u00f3n generada por el  Proyecto Chaucha , que te ayudar\u00e1 a aprender sobre el mundo de las criptomonedas de una manera f\u00e1cil y sencilla.",
+            "text": "Aqu\u00ed encontrar\u00e1s toda la informaci\u00f3n generada por el  Proyecto Chaucha , que te ayudar\u00e1 a comprender el mundo de las criptomonedas de una manera f\u00e1cil y sencilla.",
             "title": "Bienvenido a Chaucha Docs !"
         },
         {
