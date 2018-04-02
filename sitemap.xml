@@ -4,7 +4,7 @@
     
     <url>
      <loc>/</loc>
-     <lastmod>2018-04-01</lastmod>
+     <lastmod>2018-04-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -29,7 +29,7 @@
         
     <url>
      <loc>/chaucha/whitepaper/</loc>
-     <lastmod>2018-04-01</lastmod>
+     <lastmod>2018-04-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -39,16 +39,24 @@
         
     <url>
      <loc>/testimonios/leo/</loc>
-     <lastmod>2018-04-01</lastmod>
+     <lastmod>2018-04-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/testimonios/pablo/</loc>
-     <lastmod>2018-04-01</lastmod>
+     <lastmod>2018-04-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
+    
+
+    
+    <url>
+     <loc>/map/</loc>
+     <lastmod>2018-04-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
     
 
 </urlset>

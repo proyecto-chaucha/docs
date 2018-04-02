@@ -364,6 +364,191 @@
             "location": "/testimonios/pablo/#la-chauchera-perdida",
             "text": "Todo parti\u00f3 cuando c\u00e9sar posteo en el grupo de programadores chile en facebook y yo no conoc\u00eda nada de las criptos, solo conoc\u00eda ethereum y bitcoin, por lo que hab\u00eda jugado con p500 en modo demo, para aprender a tradear, pero el resto era solo desconocimiento.  Y como no hab\u00eda minando nunca una cripto, quer\u00eda aprender.  Me puse a leer la p\u00e1gina de chaucha, vi que eran pocos minando, as\u00ed que le di con fe intentando minar, creo que sacaba como 50 Kh/s con mi procesador y 180 Kh/s con mi gpu vieja, y as\u00ed a pura fe los primeros d\u00edas gane como 5 chauchas. Dejaba el pc prendido minando, meti el minero en mi pc de la pega a 1 solo hilo, para poder seguir usarlo configure una m\u00e1quina cloud y la deje minando.  Todo eso sucedi\u00f3 en septiembre y luego me olvide de la chaucha por unas semanas\u2026 respalde mi wallet en un pendrive y formati\u00e9 mi computador.  Cuando vi que la chaucha ahora val\u00eda alrededor de 20 pesos, me dije \u201coohh y mis chauchas?\u201d y no encontraba el pendrive por ninguna parte, ni sabia cuantas chauchas ten\u00eda, entonces instale un recuperador de archivos para que escaneara el disco duro buscando la wallet a pura fe. Despu\u00e9s de 20 horas revisando todos los archivos recuperados encontr\u00e9 mi wallet con la agradable sorpresa de 2200 chauchas, porque la m\u00e1quina de cloud se qued\u00f3 minando por casi un mes sin que la banearan.  No sabia como tradear, as\u00ed que con miedo vendi 20 CHA, luego compre 22 CHA con la ganancia y as\u00ed haciendo scalping y aprendiendo de todo un poco, miner\u00eda, trading, desarrollo sobre blockchain.   A final de diciembre me quebr\u00e9 la clavicula, y el medico me prohibi\u00f3 programar por 1 mes, solo pod\u00eda leer o escribir en el tel\u00e9fono. Ah\u00ed fue luego de leer mucho me met\u00ed en la miner\u00eda, vend\u00ed algunas de mis CHA para comprar tarjetas de video, placa, fuente (de hecho creo que fui el que se llev\u00f3 la \u00faltimas tarjetas de video de 2 tiendas) y fue todo un desaf\u00edo armar un rig solo con la mano izquierda.   Y ahora ando minando de todo, menos chauchas, porque no me gusta arrendar para minar.   Ahora incluso con el precio actual, no me arrepiento de estar guardando 500 CHA para el futuro, le tengo f\u00e9 al proyecto.  Ha sido uno de los veranos donde m\u00e1s he aprendido y les doy las gracias, porque ha sido bakan entrar a este mundo.  - Pablo",
             "title": "La chauchera perdida"
+        },
+        {
+            "location": "/map/",
+            "text": "Mapa de proyectos\n\n\nA continuaci\u00f3n te mostramos proyectos dentro del ecosistema de Chaucha, desde aquellos generados por sus creadores como de los proyectos creados por la misma comunidad.\n\n\nEsperamos que esta visualizaci\u00f3n g\u0155afica permita entender de mejor manera los proyectos alrededor de la m\u00e1s popular criptomoneda en Chile.\n\n\n\n\n\n\n\n\nSoftware Proyecto Chaucha\n\n\nEl siguiente software puede encontrarse en el repositorio git, en la URL \nhttps://github.com/proyecto-chaucha\n, o siguiendo el siguiente \nlink\n.\n\n\nChinchilla\n\n\nSoftware utilizado como explorador de bloques. Parte del software del \nproyecto chaucha\n \nchinchilla\n.\n\n\nUkuku\n\n\nExtractor de blockchain para MongoDB. Parte del software del \nproyecto chaucha\n \nukuku\n.\n\n\nQuirquincho\n\n\nBot de Telegram para mantener wallets de Chaucha. Puedes revisar su funcionamiento en el grupo de telegram \n@chaucha\n\nEl comando para iniciar el bot es \n/start@QuirquinchoBot\n.\nEste bot es parte del software del \nproyecto chaucha\n \nquirquincho\n.\n\n\nChungungo\n\n\nExperimento web-wallet. Parte del software del \nproyecto chaucha\n \nchungungo\n.\n\n\nSoftware de Integraci\u00f3n\n\n\nA continuaci\u00f3n tenemos software que es utilizado para integraci\u00f3n de sistemas\n\n\nExplorer\n\n\nEste software es un explorador de bloques basado en \ninsight.is\n. Puedes encontrarlo en el siguiente \nlink\n o en la siguiente URL \nhttps://explorer.cha.terahash.cl\n.\n\n\nSimplepay\n\n\nSoftware utilizado para la integraci\u00f3n de botones de pago a WooComerce. Puedes encontrar este plugin en el siguiente \nlink\n.\n\n\nExchange\n\n\nExcel Exchange\n\n\nEl excel exchange es un software que opera sobre telegram dejando las ordenes de compra y venta en un sheet de Google. Puedes encontrarlo en el siguiente \nlink\n.\n\n\nOrionX\n\n\nOrionX es uno de los exchanges m\u00e1s populares para transar Chaucha. Puedes encontrarlos en el siguiente \nlink\n o bien en la siguiente URL: \nhttps://orionx.com\n.\n\n\nSouthXchange\n\n\nSoouthXchange tambi\u00e9n nos provee de trading con chaucha en el siguiente \nlink\n.\n\n\nSoftware Mobile\n\n\nEn esta secci\u00f3n revisaremos los software asociados a chaucha para dispositivos m\u00f3biles.\n\n\nChauchometro\n\n\nSoftware que nos entrega el precio de Chaucha desde OrionX. Puedes descargarlo desde el siguiente \nlink\n para Android o desde el siguiente \nlink\n para Ios.\n\n\nChaucha Trader\n\n\nSoftware que nos permite operar con las monedas disponibles en OrionX. Puedes descargarlo desde el siguiente \nlink\n o visitar su sitio oficial \naqu\u00ed\n o en la URL \nhttp://chauchatraderpro.cl\n.\n\n\nQWallet\n\n\nSoftware que nos permite acceder a nuestra wallet desde nuestro dispositivo m\u00f3vil o crear una nueva. Nos permitir\u00e1 enviar o recibir Chauchas desde nuestro dispositivo. Puedes descargar este software desde el siguiente \nlink\n.\n\n\nPlataforma\n\n\nA continuaci\u00f3n te presentamos algunas plataformas...\n\n\nBotiqu.in\n\n\nPlataforma para ofrecer productos o servicios por criptomonedas. Puedes visitar este sitio en el siguiente \nlink\n o en la URL: \nhttp://botiqu.in\n.\n\n\nChaucha Docs\n\n\nDocumentaci\u00f3n y experiencias sobre la Chaucha. El sitio que lees corresponde a ChauchaDocs. El fuente de este sitio es parte del proyecto chaucha y puedes encontrarlo en el siguiente \nlink\n.\n\n\nLatamcoincap\n\n\nEn Latamcoincap podr\u00e1s obtener informaci\u00f3n de proyectos de criptomonedas en latinoam\u00e9rica. Puedes revisar el siguiente \nlink\n o dirigirte a la siguiente URL: \nhttps://www.latamcoincap.io/\n.\n\n\nJuego\n\n\nA continuaci\u00f3n te mostramos algunos juegos relacionados con Chaucha.\n\n\nDice Miner\n\n\nJuego de habilidad para ganar Chauchas. Puedes visitar el sitio en el siguiente \nlink\n o en la URL: \nhttp://dice.miner.cl\n.\n\n\nQue Chaucha\n\n\nJuego Educacional con chaucha. Visita el juego en el siguiente \nlink\n o en la siguiente URL: \nhttps://proyecto-chaucha.github.io/quechaucha/\n.\n\n\nBetgan\n\n\nApuestas deportivas descentralizadas actualmente en desarrollo. Puedes ver sus avances en el siguiente \nlink\n o directamente en le URL: \nhttp://betgan.ga\n.\n\n\nChauchazo\n\n\nJuego que consiste en una loter\u00eda de Chauchas. Puedes visitar este proyecto en el siguiente \nlink\n o en la URL: \nhttp://chauchazo.cl\n.\n\n\nTiendas\n\n\nTazones\n\n\nEn esta tienda virtual podr\u00e1s comprar tazones y otros productos. Puedes visitar la tienda en el siguiente \nlink\n o buscar en facebook por \nAngryInfoPrint\n.\n\n\nWoodSkin\n\n\nEn esta tienda virtual podr\u00e1s encontrar productos personalizados con CNC tales como llaveros, libretas y magn\u00e9ticos. Puedes visitar esta tienda en su p\u00e1gina de facebook \naqu\u00ed\n o puedes buscar en faceebook por \nwoodskinchile\n.\n\n\nOrganizacion\n\n\nProyecto chaucha\n\n\nEl proyecto principal de desarrollo de Chaucha y de herramientas educativas autodidactas \nchaucha.cl\n\n\nTrading chile\n\n\nCanal de youtube sobre trading e informaci\u00f3n. Puedes visitarlos en el siguiente \nlink\n o en la URL: \nhttps://tradingchile.org\n. As\u00ed, te enterar\u00e1s de las \u00faltimas noticias sobre el este y otros proyectos.\n\n\nChaucha IoT\n\n\nSecci\u00f3n de informaci\u00f3n para la utilizaci\u00f3n del blockchain de Chaucha para almacenar informaci\u00f3n. Puedes visitar el siguiente \nlink\n o en la URL: \nhttps://iot.chaucha.cl\n.\n\n\nComunidad\n\n\nSitio oficial de Comunidad Chaucha, donde te enterar\u00e1s de los primeros sobre proyectos de Chaucha. Puedes visitar el sitio de la comunidad en el siguiente \nlink\n, o buscar en facebook por \nchauchacoin\n.\n\n\nLuka\n\n\nP\u00e1gina Web: \ncryptoluka.cl\n\n\nHODL\n\n\nEn HODL encontrar\u00e1s un grupo abierto para discutir de criptomonedas y tokens en general. Puedes dirigirte al siguiente \nlink\n o en la URL: \nhttp://hodl.cl\n.",
+            "title": "Mapa de proyectos"
+        },
+        {
+            "location": "/map/#mapa-de-proyectos",
+            "text": "A continuaci\u00f3n te mostramos proyectos dentro del ecosistema de Chaucha, desde aquellos generados por sus creadores como de los proyectos creados por la misma comunidad.  Esperamos que esta visualizaci\u00f3n g\u0155afica permita entender de mejor manera los proyectos alrededor de la m\u00e1s popular criptomoneda en Chile.",
+            "title": "Mapa de proyectos"
+        },
+        {
+            "location": "/map/#software-proyecto-chaucha",
+            "text": "El siguiente software puede encontrarse en el repositorio git, en la URL  https://github.com/proyecto-chaucha , o siguiendo el siguiente  link .",
+            "title": "Software Proyecto Chaucha"
+        },
+        {
+            "location": "/map/#chinchilla",
+            "text": "Software utilizado como explorador de bloques. Parte del software del  proyecto chaucha   chinchilla .",
+            "title": "Chinchilla"
+        },
+        {
+            "location": "/map/#ukuku",
+            "text": "Extractor de blockchain para MongoDB. Parte del software del  proyecto chaucha   ukuku .",
+            "title": "Ukuku"
+        },
+        {
+            "location": "/map/#quirquincho",
+            "text": "Bot de Telegram para mantener wallets de Chaucha. Puedes revisar su funcionamiento en el grupo de telegram  @chaucha \nEl comando para iniciar el bot es  /start@QuirquinchoBot .\nEste bot es parte del software del  proyecto chaucha   quirquincho .",
+            "title": "Quirquincho"
+        },
+        {
+            "location": "/map/#chungungo",
+            "text": "Experimento web-wallet. Parte del software del  proyecto chaucha   chungungo .",
+            "title": "Chungungo"
+        },
+        {
+            "location": "/map/#software-de-integracion",
+            "text": "A continuaci\u00f3n tenemos software que es utilizado para integraci\u00f3n de sistemas",
+            "title": "Software de Integraci\u00f3n"
+        },
+        {
+            "location": "/map/#explorer",
+            "text": "Este software es un explorador de bloques basado en  insight.is . Puedes encontrarlo en el siguiente  link  o en la siguiente URL  https://explorer.cha.terahash.cl .",
+            "title": "Explorer"
+        },
+        {
+            "location": "/map/#simplepay",
+            "text": "Software utilizado para la integraci\u00f3n de botones de pago a WooComerce. Puedes encontrar este plugin en el siguiente  link .",
+            "title": "Simplepay"
+        },
+        {
+            "location": "/map/#exchange",
+            "text": "",
+            "title": "Exchange"
+        },
+        {
+            "location": "/map/#excel-exchange",
+            "text": "El excel exchange es un software que opera sobre telegram dejando las ordenes de compra y venta en un sheet de Google. Puedes encontrarlo en el siguiente  link .",
+            "title": "Excel Exchange"
+        },
+        {
+            "location": "/map/#orionx",
+            "text": "OrionX es uno de los exchanges m\u00e1s populares para transar Chaucha. Puedes encontrarlos en el siguiente  link  o bien en la siguiente URL:  https://orionx.com .",
+            "title": "OrionX"
+        },
+        {
+            "location": "/map/#southxchange",
+            "text": "SoouthXchange tambi\u00e9n nos provee de trading con chaucha en el siguiente  link .",
+            "title": "SouthXchange"
+        },
+        {
+            "location": "/map/#software-mobile",
+            "text": "En esta secci\u00f3n revisaremos los software asociados a chaucha para dispositivos m\u00f3biles.",
+            "title": "Software Mobile"
+        },
+        {
+            "location": "/map/#chauchometro",
+            "text": "Software que nos entrega el precio de Chaucha desde OrionX. Puedes descargarlo desde el siguiente  link  para Android o desde el siguiente  link  para Ios.",
+            "title": "Chauchometro"
+        },
+        {
+            "location": "/map/#chaucha-trader",
+            "text": "Software que nos permite operar con las monedas disponibles en OrionX. Puedes descargarlo desde el siguiente  link  o visitar su sitio oficial  aqu\u00ed  o en la URL  http://chauchatraderpro.cl .",
+            "title": "Chaucha Trader"
+        },
+        {
+            "location": "/map/#qwallet",
+            "text": "Software que nos permite acceder a nuestra wallet desde nuestro dispositivo m\u00f3vil o crear una nueva. Nos permitir\u00e1 enviar o recibir Chauchas desde nuestro dispositivo. Puedes descargar este software desde el siguiente  link .",
+            "title": "QWallet"
+        },
+        {
+            "location": "/map/#plataforma",
+            "text": "A continuaci\u00f3n te presentamos algunas plataformas...",
+            "title": "Plataforma"
+        },
+        {
+            "location": "/map/#botiquin",
+            "text": "Plataforma para ofrecer productos o servicios por criptomonedas. Puedes visitar este sitio en el siguiente  link  o en la URL:  http://botiqu.in .",
+            "title": "Botiqu.in"
+        },
+        {
+            "location": "/map/#chaucha-docs",
+            "text": "Documentaci\u00f3n y experiencias sobre la Chaucha. El sitio que lees corresponde a ChauchaDocs. El fuente de este sitio es parte del proyecto chaucha y puedes encontrarlo en el siguiente  link .",
+            "title": "Chaucha Docs"
+        },
+        {
+            "location": "/map/#latamcoincap",
+            "text": "En Latamcoincap podr\u00e1s obtener informaci\u00f3n de proyectos de criptomonedas en latinoam\u00e9rica. Puedes revisar el siguiente  link  o dirigirte a la siguiente URL:  https://www.latamcoincap.io/ .",
+            "title": "Latamcoincap"
+        },
+        {
+            "location": "/map/#juego",
+            "text": "A continuaci\u00f3n te mostramos algunos juegos relacionados con Chaucha.",
+            "title": "Juego"
+        },
+        {
+            "location": "/map/#dice-miner",
+            "text": "Juego de habilidad para ganar Chauchas. Puedes visitar el sitio en el siguiente  link  o en la URL:  http://dice.miner.cl .",
+            "title": "Dice Miner"
+        },
+        {
+            "location": "/map/#que-chaucha",
+            "text": "Juego Educacional con chaucha. Visita el juego en el siguiente  link  o en la siguiente URL:  https://proyecto-chaucha.github.io/quechaucha/ .",
+            "title": "Que Chaucha"
+        },
+        {
+            "location": "/map/#betgan",
+            "text": "Apuestas deportivas descentralizadas actualmente en desarrollo. Puedes ver sus avances en el siguiente  link  o directamente en le URL:  http://betgan.ga .",
+            "title": "Betgan"
+        },
+        {
+            "location": "/map/#chauchazo",
+            "text": "Juego que consiste en una loter\u00eda de Chauchas. Puedes visitar este proyecto en el siguiente  link  o en la URL:  http://chauchazo.cl .",
+            "title": "Chauchazo"
+        },
+        {
+            "location": "/map/#tiendas",
+            "text": "",
+            "title": "Tiendas"
+        },
+        {
+            "location": "/map/#tazones",
+            "text": "En esta tienda virtual podr\u00e1s comprar tazones y otros productos. Puedes visitar la tienda en el siguiente  link  o buscar en facebook por  AngryInfoPrint .",
+            "title": "Tazones"
+        },
+        {
+            "location": "/map/#woodskin",
+            "text": "En esta tienda virtual podr\u00e1s encontrar productos personalizados con CNC tales como llaveros, libretas y magn\u00e9ticos. Puedes visitar esta tienda en su p\u00e1gina de facebook  aqu\u00ed  o puedes buscar en faceebook por  woodskinchile .",
+            "title": "WoodSkin"
+        },
+        {
+            "location": "/map/#organizacion",
+            "text": "",
+            "title": "Organizacion"
+        },
+        {
+            "location": "/map/#proyecto-chaucha",
+            "text": "El proyecto principal de desarrollo de Chaucha y de herramientas educativas autodidactas  chaucha.cl",
+            "title": "Proyecto chaucha"
+        },
+        {
+            "location": "/map/#trading-chile",
+            "text": "Canal de youtube sobre trading e informaci\u00f3n. Puedes visitarlos en el siguiente  link  o en la URL:  https://tradingchile.org . As\u00ed, te enterar\u00e1s de las \u00faltimas noticias sobre el este y otros proyectos.",
+            "title": "Trading chile"
+        },
+        {
+            "location": "/map/#chaucha-iot",
+            "text": "Secci\u00f3n de informaci\u00f3n para la utilizaci\u00f3n del blockchain de Chaucha para almacenar informaci\u00f3n. Puedes visitar el siguiente  link  o en la URL:  https://iot.chaucha.cl .",
+            "title": "Chaucha IoT"
+        },
+        {
+            "location": "/map/#comunidad",
+            "text": "Sitio oficial de Comunidad Chaucha, donde te enterar\u00e1s de los primeros sobre proyectos de Chaucha. Puedes visitar el sitio de la comunidad en el siguiente  link , o buscar en facebook por  chauchacoin .",
+            "title": "Comunidad"
+        },
+        {
+            "location": "/map/#luka",
+            "text": "P\u00e1gina Web:  cryptoluka.cl",
+            "title": "Luka"
+        },
+        {
+            "location": "/map/#hodl",
+            "text": "En HODL encontrar\u00e1s un grupo abierto para discutir de criptomonedas y tokens en general. Puedes dirigirte al siguiente  link  o en la URL:  http://hodl.cl .",
+            "title": "HODL"
         }
     ]
 }
