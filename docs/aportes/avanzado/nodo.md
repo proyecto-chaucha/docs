@@ -30,4 +30,5 @@ Al ejecutar la Chauchera se intentará crear la conexión con la mayor cantidad 
 
 La selección de seed nodes es importante para asegurar la estabilidad de la red, ya que si alguno falla se pierde una gran parte de las conexiones existentes en la red de criptomonedas. 
 
-## en construcción :D
+## Como utilizar un nodo
+

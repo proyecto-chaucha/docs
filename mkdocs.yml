@@ -3,20 +3,20 @@ pages:
     - Inicio: index.md
     - Aportes de la comunidad:
       - Principiante:
-        - Introducción: intro.md
-        - Cómo minar Chauchas: mining.md
-        - HODL !: hodl.md
-        - Tips de seguridad: sec.md
-        - Preguntas Frecuentes: faq.md
+        - Introducción: aportes/principiante/intro.md
+        - Cómo minar Chauchas: aportes/principiante/mining.md
+        - HODL !: aportes/principiante/hodl.md
+        - Tips de seguridad: aportes/principiante/sec.md
+        - Preguntas Frecuentes: aportes/principiante/faq.md
       - Avanzado:
-        - Qué es un nodo?: nodo.md
-        - Pintar Chauchas: pintar.md
+        - ¿Qué es un nodo?: aportes/avanzado/nodo.md
+        - Pintar Chauchas: aportes/avanzado/pintar.md
     - Chaucha:
-      - Whitepaper: whitepaper.md
+      - Whitepaper: chaucha/whitepaper.md
     - Testimonios:
-      - La Chaucha y los dibujos: leo.md
-      - La chauchera perdida: pablo.md
-    - Mapa Proyectos: map.md
+      - La Chaucha y los dibujos: testimonios/leo.md
+      - La chauchera perdida: testimonios/pablo.md
+
 theme:
   name: 'material'
   font:
@@ -42,6 +42,7 @@ extra:
     - type: 'telegram'
       link: 'https://t.me/chaucha'
   search:
-    language: 'en, es'
-    
-    
+    language: 'es'
+
+extra_css:
+  - 'css/extra.css'
