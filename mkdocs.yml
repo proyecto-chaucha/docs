@@ -16,6 +16,7 @@ pages:
     - Testimonios:
       - La Chaucha y los dibujos: leo.md
       - La chauchera perdida: pablo.md
+    - Mapa Proyectos: map.md
 theme:
   name: 'material'
   font:
@@ -42,3 +43,5 @@ extra:
       link: 'https://t.me/chaucha'
   search:
     language: 'en, es'
+    
+    
