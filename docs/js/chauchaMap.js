@@ -161,7 +161,7 @@
               }
             }else if ($.inArray(nearest.node.name, ['arbor.js','code','docs','demos',
             "Mobile app",
-            "Repo",
+            "chaucha.cl",
             "Integracion",
             "Organizacion",
             "Exchange",
@@ -352,16 +352,16 @@
   
   $(document).ready(function(){
     var CLR = {
-      branch:"#b2b19d",
+      branch:"#708D91",
       code:"orange",
-      doc:"#922E00",
-      demo:"#a7af00"
+      doc:"#FF0066",
+      demo:"#708D91"
     }
     
     
 
     var theUI = {
-      nodes:{"Chaucha":{color:"red", shape:"dot", alpha:1}, 
+      nodes:{"Chaucha":{color:"#00FFC8", shape:"dot", alpha:1}, 
       
              /*demos:{color:CLR.branch, shape:"dot", alpha:1}, 
              halfviz:{color:CLR.demo, alpha:0, link:'/halfviz'},
@@ -413,10 +413,10 @@
 			 /*Organizacion*/
 			 Organizacion:{color:CLR.branch, shape:"dot", alpha:1},
 				 /*Childs*/
-				 "Proyecto chaucha":{color:CLR.doc, alpha:0, link:'#proyecto-chaucha'},
+				 "chaucha.cl":{color:CLR.doc, alpha:0, link:'#proyecto-chaucha'},
 				 "Trading chile":{color:CLR.doc, alpha:0, link:'#trading-chile'},
 				 "Chaucha IoT":{color:CLR.doc, alpha:0, link:'#chaucha-iot'},
-				 "Comunidad":{color:CLR.doc, alpha:0, link:'#comunidad'},
+				 "Comunidad Chaucha":{color:CLR.doc, alpha:0, link:'#comunidad'},
 				 "Luka":{color:CLR.doc, alpha:0, link:'#luka'},
 				 "HODL":{color:CLR.doc, alpha:0, link:'#hodl'},
 			 
@@ -426,12 +426,12 @@
 				 /*root*/
 				 "Mobile app":{'color':CLR.branch,'shape':'dot'},
 					 /*Childs*/
-					 Chauchatraderpro:{color:CLR.doc, alpha:0, link:'#chaucha-trader'},
+					 "Chaucha Trader Pro":{color:CLR.doc, alpha:0, link:'#chaucha-trader'},
 					 Chauchometro:{color:CLR.doc, alpha:0, link:'#chauchometro'},
 					 Qwallet:{color:CLR.doc, alpha:0, link:'#qwallet'},
 				 /*WebPages*/
 				 /*root*/
-				 Repo:{'color':CLR.branch,'shape':'dot'},
+				 "chaucha.cl":{'color':CLR.branch,'shape':'dot'},
 					 /*Childs*/
 					 Chinchilla:{color:CLR.doc, alpha:0, link:'#chinchilla'},
 					 Ukuku:{color:CLR.doc, alpha:0, link:'#ukuku'},
@@ -442,7 +442,7 @@
 				 /*root*/
 				 "Integracion":{'color':CLR.branch,'shape':'dot'},
 					 /*Childs*/
-					 Explorer:{color:CLR.doc, alpha:0, link:'#explorer'},
+					 "explorer.cha.terahash.cl":{color:CLR.doc, alpha:0, link:'#explorer'},
 					 Simplepay:{color:CLR.doc, alpha:0, link:'#simplepay'},
 		  
             },
@@ -463,18 +463,18 @@
 		Software:{
 			"Mobile app":{},
 			"Integracion":{},
-            Repo:{},            
+            "chaucha.cl":{},            
         },	
 		"Mobile app":{
-			Chauchatraderpro:{},
+			"Chaucha Trader Pro":{},
 			Qwallet:{},
 			Chauchometro:{}
 		},
 		"Integracion":{
-			Explorer:{},
+			"explorer.cha.terahash.cl":{},
 			Simplepay:{}
 		},
-		Repo:{
+		"chaucha.cl":{
 			Chinchilla:{},
             Ukuku:{},
             Quirquincho:{},
@@ -489,10 +489,10 @@
 			},
 		/*Organizacion*/
         Organizacion:{
-			"Proyecto chaucha":{},
+			"chaucha.cl":{},
             "Trading chile":{},
             "Chaucha IoT":{},
-            "Comunidad":{},
+            "Comunidad Chaucha":{},
             "Luka":{},
             "HODL":{},
             

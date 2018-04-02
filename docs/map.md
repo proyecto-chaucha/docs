@@ -1,8 +1,3 @@
-
-
-
-
-
 <script src="../js/jquery-1.6.1.min.js"></script>
 <script src="../js/arbor.js"></script>
 <script src="../js/arbor-graphics.js"></script>
@@ -14,11 +9,8 @@ A continuación te mostramos proyectos dentro del ecosistema de Chaucha, desde a
 
 Esperamos que esta visualización gŕafica permita entender de mejor manera los proyectos alrededor de la más popular criptomoneda en Chile.
 
-
-
 <canvas id="sitemap" width="700" height="600"></canvas>
 <script src="../js/chauchaMap.js"></script>
-
 
 ## Software Proyecto Chaucha
 
@@ -150,7 +142,7 @@ Sitio oficial de Comunidad Chaucha, donde te enterarás de los primeros sobre pr
 
 ### Luka
 
-Puedes encontrar infomación de Luka en el siguiente [link](https://www.cryptoluka.cl/), o dirigirte directamente a la URL: *https://www.cryptoluka.cl/*.
+Página Web: [cryptoluka.cl](https://www.cryptoluka.cl/)
 
 ### HODL
 
