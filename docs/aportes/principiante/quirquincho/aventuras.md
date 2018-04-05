@@ -2,10 +2,21 @@
 Quirquincho pasará por diversas aventuras que explicarán
 los conceptos básicos de blockchain y criptomonedas.
 
-[Descargar PDF completo](https://github.com/proyecto-chaucha/docs/raw/master/docs/aportes/principiante/quirquincho/quirquincho.pdf)
-
 Escrito por Camilo Castro (@clsource)
 e Ilustrado por Leo Quezada (@leo8bits)
+
+[Descargar PDF completo](https://github.com/proyecto-chaucha/docs/raw/master/docs/aportes/principiante/quirquincho/quirquincho.pdf)
+
+[Descargar Tomo 1](https://github.com/proyecto-chaucha/docs/raw/master/docs/aportes/principiante/quirquincho/quirquincho1.pdf)
+
+[Descargar Tomo 2](https://github.com/proyecto-chaucha/docs/raw/master/docs/aportes/principiante/quirquincho/quirquincho2.pdf)
+
+[Descargar Tomo 3](https://github.com/proyecto-chaucha/docs/raw/master/docs/aportes/principiante/quirquincho/quirquincho3.pdf)
+
+[Descargar Tomo 4](https://github.com/proyecto-chaucha/docs/raw/master/docs/aportes/principiante/quirquincho/quirquincho4.pdf)
+
+[Descargar Tomo 5](https://github.com/proyecto-chaucha/docs/raw/master/docs/aportes/principiante/quirquincho/quirquincho5.pdf)
+
 
 ![1](1.jpg)
 ![2](2.jpg)
