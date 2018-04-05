@@ -8,7 +8,7 @@ pages:
         - HODL !: aportes/principiante/hodl.md
         - Tips de seguridad: aportes/principiante/sec.md
         - Preguntas Frecuentes: aportes/principiante/faq.md
-        - Aventuras de Quirquicho: aportes/principiante/quirquincho/aventuras.md
+        - Aventuras de Quirquincho: aportes/principiante/quirquincho/aventuras.md
       - Avanzado:
         - ¿Qué es un nodo?: aportes/avanzado/nodo.md
         - Pintar Chauchas: aportes/avanzado/pintar.md

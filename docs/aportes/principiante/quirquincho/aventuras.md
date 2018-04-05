@@ -1,4 +1,4 @@
-# Las Aventuras de Quirquicho
+# Las Aventuras de Quirquincho
 Quirquincho pasará por diversas aventuras que explicarán
 los conceptos básicos de blockchain y criptomonedas.
 
