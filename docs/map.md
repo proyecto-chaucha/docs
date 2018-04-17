@@ -84,6 +84,10 @@ A continuación te presentamos algunas plataformas...
 
 Plataforma para ofrecer productos o servicios por criptomonedas. Puedes visitar este sitio en el siguiente [link](http://botiqu.in) o en la URL: *http://botiqu.in*.
 
+### Local Chile Crypto
+
+Plataforma que permite que personas pongan ordenes de compra y venta de CHA y LUK, información de contacto y provee un sistema de reputación, eso si el sistema no se hace cargo de las transacciones y estas deben ser coordinadas entre los usuarios.
+
 ### Chaucha Docs
 
 Documentación y experiencias sobre la Chaucha. El sitio que lees corresponde a ChauchaDocs. El fuente de este sitio es parte del proyecto chaucha y puedes encontrarlo en el siguiente [link](https://github.com/proyecto-chaucha/docs).
