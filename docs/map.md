@@ -52,7 +52,7 @@ Este software es un explorador de bloques basado en [insight.is](insight.is). Pu
 
 ### Simplepay
 
-Software utilizado para la integración de botones de pago a WooComerce. Puedes encontrar este plugin en el siguiente [link](https://es.wordpress.org/plugins/simplepay-woocommerce-payment-gateway/).
+Software utilizado para la integración de botones de pago a WooComerce. Puedes encontrar este plugin en el siguiente [link](https://es.wordpress.org/plugins/simplepay/).
 
 ## Exchange
 
