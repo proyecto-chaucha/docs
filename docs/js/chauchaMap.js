@@ -392,7 +392,7 @@
 			 Plataforma:{color:CLR.branch, shape:"dot", alpha:1},
 				/*Childs*/
 				"Botiqu.in":{color:CLR.doc, alpha:0, link:'#botiquin'},
-        "Local Chile Crypto":{color:CLR.doc, alpha:0, link:'#local-chile-crypto'},
+        "Chile Crypto":{color:CLR.doc, alpha:0, link:'#chile-crypto'},
 				"Chaucha Docs":{color:CLR.doc, alpha:0, link:'#chaucha-docs'},
 				"Latamcoincap":{color:CLR.doc, alpha:0, link:'#latamcoincap'},
 			 
@@ -508,7 +508,7 @@
 		/*Plataforma*/	
 		Plataforma:{
 			"Botiqu.in":{},
-			"Local Chile Crypto":{},
+			"Chile Crypto":{},
       "Chaucha Docs":{},
 			"Latamcoincap":{},
 			},	
