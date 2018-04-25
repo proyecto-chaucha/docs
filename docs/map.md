@@ -84,9 +84,9 @@ A continuación te presentamos algunas plataformas...
 
 Plataforma para ofrecer productos o servicios por criptomonedas. Puedes visitar este sitio en el siguiente [link](http://botiqu.in) o en la URL: *http://botiqu.in*.
 
-### Local Chile Crypto
+### Chile Crypto
 
-Plataforma que permite que personas pongan ordenes de compra y venta de CHA y LUK, información de contacto y provee un sistema de reputación, eso si el sistema no se hace cargo de las transacciones y estas deben ser coordinadas entre los usuarios.
+En esta [plataforma](https://chile-crypto.herokuapp.com) los usuarios pueden poner su información de contacto y ofertas (órdenes de compra o venta) de las criptomonedas Chilenas (CHA y LUK), esta página también cuenta con un sistema de reputación y funcionalidad de búsqueda de ofertas, eso si cabe mencionar que el sitio no se hace cargo de las transacciones, los usuarios deben ponerse de acuerdo para esto.
 
 ### Chaucha Docs
 
