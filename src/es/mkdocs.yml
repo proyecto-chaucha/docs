@@ -1,0 +1,50 @@
+site_name: Chaucha Docs
+pages:
+    - Inicio: index.md
+    - Aportes de la comunidad:
+      - Principiante:
+        - Introducción: aportes/principiante/intro.md
+        - Cómo minar Chauchas: aportes/principiante/mining.md
+        - HODL !: aportes/principiante/hodl.md
+        - Tips de seguridad: aportes/principiante/sec.md
+        - Preguntas Frecuentes: aportes/principiante/faq.md
+        - Aventuras de Quirquincho: aportes/principiante/quirquincho/aventuras.md
+      - Avanzado:
+        - ¿Qué es un nodo?: aportes/avanzado/nodo.md
+        - Pintar Chauchas: aportes/avanzado/pintar.md
+    - Chaucha:
+      - Whitepaper: chaucha/whitepaper.md
+    - Testimonios:
+      - La Chaucha y los dibujos: testimonios/leo.md
+      - La chauchera perdida: testimonios/pablo.md
+    - Mapa de proyectos: map.md
+
+theme:
+  name: 'material'
+  font:
+    text: 'Montserrat'
+    code: 'Space Mono'
+  palette:
+    primary: 'white'
+    accent: 'pink'
+  logo: 'img/chaucha.svg'
+
+  favicon: 'img/favicon.ico'
+  language: 'es'
+
+repo_name: 'proyecto-chaucha/docs'
+repo_url: 'https://github.com/proyecto-chaucha/docs'
+
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/proyecto-chaucha'
+    - type: 'facebook'
+      link: 'https://facebook.com/proyectochaucha'
+    - type: 'telegram'
+      link: 'https://t.me/chaucha'
+  search:
+    language: 'es'
+
+extra_css:
+  - 'css/extra.css'

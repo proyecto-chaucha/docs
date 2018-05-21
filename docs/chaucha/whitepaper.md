@@ -1,3 +1,0 @@
-# Chaucha
-
-Proximamente...

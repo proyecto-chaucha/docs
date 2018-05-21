@@ -2,7 +2,27 @@
 
 Proyecto web estático generado con mkdocs. Puedes encontrar documentación de mkdocs en el siguiente [link](http://www.mkdocs.org/).
 
-# Instalación
+## Instalación con Docker
+
+Se ha utilizado [Docker Compose](https://docs.docker.com/compose/install/#install-compose) para poder
+crear un ambiente de desarrollo.
+
+### Instalación y Ejecución
+
+```sh
+Instalar: docker-compose build
+
+Correr: docker-compose up -d
+
+Detener: docker stop mkdocs
+```
+
+Ver logs:  `docker logs mkdocs`
+
+Se utiliza el puerto *8000*
+[http://0.0.0.0:8000/](http://0.0.0.0:8000/)
+
+## Instalación
 
 Para poder correr el proyecto, requieres de Python en tu máquina. Para instalación en sistema GNU/Linux basado en Debian, sigue los siguientes comandos:
 
