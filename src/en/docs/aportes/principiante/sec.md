@@ -1,52 +1,53 @@
-# Tips de seguridad
+# Security Tips
 
-Ahora que aprendiste [que son las criptomonedas](/intro) y ya obtuviste tus primeras Chauchas por el [proceso de minado](/mining), es hora de enseñarte a proteger tus ganancias de ladrones y de ti mismo.
+Now that you have learned [what are cryptocurrencies](/intro) and you got your firsts Chauchas through the [mining process](/mining), it is time to teach you how to protect your gains from thieves and from yourself.
 
-Como no existe ninguna entidad bancaria que proteja tus criptomonedas, es necesario comprender que las transacciones de criptomonedas son irreversibles y la seguridad de tus fondos de responsabilidad tuya.
+Since there is not a bank entity that protects your cryptocurrencies, it is necessary to understand that cryptocurrency transactions are irreversible and the security of your funds is  your responsibility.
 
-Existen varios métodos para almacenar de forma segura tus criptomonedas, que se basan en el control de las llaves privadas.
+There are several methods to safely store your cryptocurrencies, based on the control of the private keys.
 
-## Respaldo
+## Backup
 
-La manera más segura de controlar tus Chauchas es utilizando la [Chauchera](https://www.chaucha.cl/#downloads), que es un software creado específicamente para que tu tengas el control completo de tus fondos. Con la chauchera puedes conectarte directamente a la red, crear múltiples direcciones y realizar transacciones.
+The safest way to control your Chauchas is using the [Chauchera](https://www.chaucha.cl/#downloads), which is a software specifically made to provide you with full control of your funds. With the Chauchera you can connect directly to the network, create many addresses and make transactions.
 
-Todas las direcciones que se encuentran en tu Chauchera se almacenan en un archivo llamado *wallet.dat* que se ubica en distintas carpetas dependiendo de tu sistema operativo.
+All the addresses in your Chauchera are stored in a file called *wallet.dat* that is in different folders depending on your operative system.
 
 * **Linux:** ~/.chaucha/wallet.dat
 * **Windows:** %APPDATA%/chaucha/wallet.dat
 * **OSX:** ~/Library/Application Support/chaucha/wallet.dat
- 
-**ADVERTENCIA: modificar cualquier archivo dentro de esta carpeta puede alterar el funcionamiento correcto de la Chauchera.**
 
-Para realizar un respaldo de la información de tu Chauchera debes ir a la pestaña superior, clickear donde dice *Archivo* y luego en *Respaldar Billetera*. Después de esto, aparecerá una ventana en donde te permitirá guardar el archivo *wallet.dat* para realizar el respaldo.
+**WARNING: modifying any file inside this folder can disturb the functioning of the Chauchera.**
 
-**Guarda este archivo en un lugar seguro, en donde nadie pueda acceder a el, y nunca compartas este archivo con nadie.**
+In order to make a backup of your Chauchera’s data you have to go to the upper tab, click in *File* and then in *Backup Wallet*. After that, a window will pop up that will allow you to save the file *wallet.dat* to do the backup.
 
-Cuando quieras volver a recuperar tu Chauchera debes ejecutar por primera vez el software para que se sincronice con la red y se generen las carpetas de configuración. Luego de esto, cierra la Chauchera de manera segura, copia el archivo *wallet.dat* de tu respaldo y pegalo a la carpeta respectiva de configuración correspondiente a tu sistema operativo.
+**Save this file in a safe place, where nobody can access to it, and do not share this file with anybody.**
 
-## Clave de acceso
+When you want to recover your Chauchera you have to launch the software for the first time to phase it with the network and generate the configuration folders. Then safely close the Chauchera, copy the file *wallet.dat* of your backup and paste it in the corresponding configuration folder on your operating system.  
 
-También es posible proteger tu Chauchera con una contraseña, que solo permitirá crear transacciones cuando se ingrese de manera correcta.
+## Access password
 
-Para habilitar una nueva contraseña haz click en la pestaña *Configuración* en la opción *Codificar tu billetera...*
+It is also possible to protect your Chauchera with a password, which will only allow the transaction to be made when entered correctly.
 
-Recuerda utilizar una contraseña compleja, que puedas recordar en el futuro, y que sea difícil de adivinar.
+To activate a new password click the *Settings* tab and press the *Encode Your Wallet…* option.
+
+Remember to use a complex password, which you can remember in the future, and that is hard to guess.
 
 ## Paper Wallet
 
-Si no confías en tus capacidades para mantener un respaldo de tu archivos, es posible crear algo llamado *Monedero de papel*, en donde se almacenan solo las llaves privadas correspondiente a tus direcciones de Chauchera en un papel (impreso o escrito).
+If you do not trust in your own capacities to keep a backup of your files, it is possible to create something called *Paper Wallet*, where only the private keys corresponding to your chauchera addresses are stored in a paper (printed or written)
 
-Con esto te protegerás de ataques informáticos, pero tendras que recordar el lugar físico en donde dejaste su Chauchera de papel.
+With this measure you will protect yourself from cyber attacks, but you will have to remember the physical place where you left your paper chauchera.
 
-Para conocer la llave privada de una de tus direcciones presentes en tu Chauchera debes usar la *Ventana de depuración* que se encuentra en la pestaña de *Ayuda*, en la parte superior de la Chauchera.
+To know the private key of one of your chauchera addresses you must use the *debug window* found on the *help* tab, at the menu bar of the chauchera.
 
-En la ventana de depuración aparecerá un resumen del funcionamiento de la Red Chaucha junto con una *Consola*. En esta consola puedes utilizar el comando *dumpprivkey* seguido de tu dirección de Chauchera para conocer la llave privada.
+A summary of the network operation of Chaucha will appear in the debug window along with a *console*. You can use the *dumpprivkey* command followed by your Chauchera address to know the private key in this console
 
 ```
 >> dumpprivkey cWS7AmPfQTfj9YyyvZqekX1piK4Wa8jqK1
 Z4NZoPUMfXtB6vsQfTKWyZRnDQTUAtSazy17gtxpyESUhkdd7jVe
 ```
 
-**Escribe la llave privada en un pedazo de papel, teniendo en cuenta las letras en mayuscula o minuscula, distinguiendo los ceros de las letras O y manteniendo una letra clara.**
+**Write the private key in a piece of paper, considering uppercase and lowercase letters, distinguishing zeros from "O" letters and keeping a neat handwriting.**
 
-Cuando quieras volver a incluir tu dirección en otra Chauchera puedes utilizar el comando *importprivkey* seguido de tu llave privada.
+You can use the *importprivkey* command followed by your private key when you want to include again your address in another Chauchera.
+
