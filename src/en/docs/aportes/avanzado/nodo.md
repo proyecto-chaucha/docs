@@ -1,34 +1,34 @@
-# ¿Qué es un nodo?
+# What is a node?
 
-Las [redes de criptomonedas](https://es.bitcoinwiki.org/wiki/Red) son generadas por la conexión de diferentes *Nodos* a través de internet, que trabajan en conjunto para compartir información de manera segura y confiable en el tiempo.
+The [cryptocurrency networks](https://es.bitcoinwiki.org/wiki/Red) are generated through the connection of different *Nodes* throughout the internet, these nodes work together to share information over time in a safe and trusty way.
 
-Este *nodo* es un software, que en el caso de la Chaucha lo llamamos [Chauchera](https://github.com/proyecto-chaucha/chauchera/releases/), y dentro de su código fuente incluye todas las herramientas necesarias para crear, enviar, verificar transacciones e interactuar con los demás nodos de la red, junto con una serie de reglas llamadas *Reglas de Consenso* que definen el comportamiento total de la red.
+This *node* is a software, that in the case of chaucha project we called it [Chauchera](https://github.com/proyecto-chaucha/chauchera/releases/), and within its source code you can find all the tools to create, send and verify trasactions and also to interact with the other nodes over the net as well as a series of rules known as *Consensus Rules* wich define the overall behaviour of the net.
 
-Las reglas de consenso son elegidas por la comunidad de desarrollo, y se asume que cada nodo existente en la red las aprueba y se rige por ellas de manera optativa. Si un conjunto de nodos no cumple con alguna de las reglas de consenso se genera una nueva bifurcación (Fork) en la red, y las dos redes (la antigua y la nueva) dejan de ser compatibles entre ellas. 
+The consensus rules are chosen by the development community and it is assumed that every existing nod in the network and acts according to the rules. If a set of nodes does not 
+comply with any of the consensus rules a new bifurcation (fork) is generated on the net, and the two networks (the old and new one) are not compatible anymore.
 
-Una red de criptomonedas no mantiene un servidor central, por lo que decimos que es una *red descentralizada*. Este factor permite que cualquier usuario tenga la posibilidad de crear un nodo y participar en el funcionamiento de una criptomoneda.
+A cryptocurrency network does not keep a main server, therefore we called it a *decentralized network*. This factor allows any user the possibility of creating a node and participate in a cryptocurrency operation.
 
-## Tipos de nodos
+## Types of nodes
 
-Es posible clasificar los nodos de una red de criptomonedas en dos categorías, que se distinguen por su funcionalidad en el tiempo. A modo de simplificar la explicación los llamaremos Nodos Completos y Seed Nodes.
+We can classify the nodes of a cryptocurrency network in two categories, distinguished by its functionality in time. In order to simplify the explanation we will call them Full Nodes and Seed Nodes.
 
-### Nodo Completo
+### Full Nodes 
+Full nodes accomplish all the rules established by the cryptocurrency network, along with maintaining a full backup from Blockchain to verify the information integrity and veracity.
 
-Un nodo completo cumple con todas las reglas establecidas por la red de criptomonedas, junto con mantener un respaldo completo del Blockchain para verificar la integridad y la veracidad de la información.
+A Full node main function is to allow interaction with the network, either from creating transactions or obtaining information about the network operation.
 
-La función principal de un nodo completo es permitir la interacción con la red, ya sea a partir de la creación de transacciones o extrayendo información del funcionamiento de la red. 
+Hence, each platform or service using a cryptocurrency must be connected to a full node, using either a dedicated server or an external platform, also it must guarantee this full node to be updated and properly maintained so not to be perjudicial to its users experience.
 
-Por esto, cada plataforma o servicio que utilice una criptomoneda debe conectarse a un nodo completo, ya sea utilizando un servidor dedicado o una plataforma externa, y debe asegurar que este nodo completo este actualizado y mantenido de manera correcta para no perjudicar la experiencia de sus usuarios. 
-
-*Si deseas mantener un nodo completo de la Red Chaucha solo necesitas ejecutar la Chauchera en un servidor conectado a internet, es así de simple.*
+*If you wish to keep a full node from Chaucha Network you just need to run Chauchera on a server connected to internet, it is that simple*
 
 ### Seed Node
 
-Dentro del [código fuente de la Chauchera](https://github.com/proyecto-chaucha/chauchera/blob/master/src/chainparams.cpp#L128) existen un pequeño listado de nodos completos llamados seed nodes, que se utilizan como *punto de entrada* a la red, que permiten guiar a los nuevos nodos en su conexión a la red.
+Inside the [Chauchera source code](https://github.com/proyecto-chaucha/chauchera/blob/master/src/chainparams.cpp#L128) there is a short list of full nodes called seed nodes that are used as the network *entry point*, and also allows to guide the new nodes through their network connection. 
 
-Al ejecutar la Chauchera se intentará crear la conexión con la mayor cantidad de seed nodes disponibles, los que entregarán el listado de las conexiones que mantienen activas hacia ellos, y con esta información tu computadora podrá *descubrir nodos* en la red, creando nuevas conexiones entre nodos.
+When running the Chauchera, a connection will be attempted with the most amount of available seed nodes, which will serve the list of connection that remain active towards them,  and with this data your computer will be able to *find nodes* in the network.
 
-La selección de seed nodes es importante para asegurar la estabilidad de la red, ya que si alguno falla se pierde una gran parte de las conexiones existentes en la red de criptomonedas. 
+Seed nodes selection is important to ensure the network stability, because if any of them fails a great part of the existing connections on the cryptocurrency network may be lost.
 
-## Como utilizar un nodo
+## How to use a node?
 

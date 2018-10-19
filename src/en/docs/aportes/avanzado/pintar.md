@@ -1,110 +1,72 @@
-# Pintar Chauchas
-El concepto de pintar o [colorear](https://es.wikipedia.org/wiki/Moneda_coloreada) se refiere al proceso de identificar
-un ítem dentro de un conjunto. En este caso "pintar" una chaucha
-se refiere a darle un significado más allá de su valor financiero en el mercado.
+# Paint Chauchas
 
-Pintar significa que puedes crear tu propio sistema de intercambio.
-Quizas tengas una tienda y desees premiar a tus clientes ofreciendole
-cupones de descuento. Tal ves quieras crear una [moneda local](https://es.wikipedia.org/wiki/Moneda_local). También puede ser un premio
-que pueda canjear el ganador de un concurso o la entrada a una fiesta
-o evento.
+The concept of painting or [coloring] (https://en.wikipedia.org/wiki/Colored_coin) refers to the process of identifying an item within a set. In this case "painting" a chaucha is giving a meaning beyond its financial value in the market.
 
-El pintar una chaucha abre la puerta a crear nuevas formas de
-intercambiar valor, independiente del precio que tenga la chaucha.
+Painting means that you can create your own exchange system. Maybe you have a store and want to reward your customers by offering discount coupons. Maybe you want to create a [local currency] (https://en.wikipedia.org/wiki/Local_currency). It can also be a prize that can be exchanged  by  the winner of a contest or the entry to a party or event.
 
-Básicamente se está creando un *"token"* o fichas que utilizan la red chaucha
-para verificar su autenticidad y evitar que sean utilizadas más de una vez.
+Painting a chaucha opens the door to create new ways of exchanging value, regardless of the price of the chaucha.
 
-## ¿Cómo funciona?
+Basically you are creating a *"token"* or chips that use the chaucha network  to verify their authenticity and prevent them from being used more than once.
 
-En la actualidad existen distintas formas de pintar criptomonedas, 
-como [Colored Coins](http://coloredcoins.org/documentation/).
+## How does it work?
+ 
+Nowadays there are different ways to paint cryptocurrencies, such as [Colored Coins](http://coloredcoins.org/documentation/).
+ 
+However, the easiest way is the one described by the [Satokshi](http://satokshi.com) protocol.
+ 
+This protocol simply says that: It is not necessary to paint each chaucha in order to identify it. You simply have to verify its root of origin to know if it is painted or not.
 
-Sin embargo la forma más fácil es la descrita por el protocolo [Satokshi](http://satokshi.com).
+### Step 1 - Acquire Chauchas
 
-Este protocolo simplemente dice que: No es necesario pintar cada chaucha
-para poder identificarla. Simplemente se debe verificar su raíz de origen
-para saber si esta pintada o no.
+The painted chauchas are traditional chauchas. The chaucha can be divided up to 8 times, then if we consider 0.000000001 CHA as the minimum unit we can create up to 100 000 000 painted chauchas using 1 CHA.
 
-### Paso 1 - Adquirir Chauchas
+### Step 2 - Create the "Mother" Chauchera
+ 
+This chauchera address will be considered as the original address of our painted chauchas or *"tokens"*. It is recommended to have access to the *private key*, so an *exchange* address is not recommended.
+ 
+It is necessary that the mother chauchera has the amount of chauchas necessary to be able to create as many *tokens* as we need.
+ 
+### Step 3 - Create "Children" Chaucheras
+ 
+You must create a chauchera daughters. This will allow to distribute them easily. It is recommended to have access to the *private key* if you want, for example, to deliver the tokens in the form of [paper wallets](/sec).
+ 
+It is very important that these addresses are used separately from other chaucheras. It is also important that they have no other transactions than those belonging to the painting process. This is to facilitate the search and the organization.
+ 
+### Step 4 - Send the Painted Chauchas
+ 
+This will be the genesis transaction of our painted chauchas. From this transaction, a record of the location of the painted chauchas can be kept.
 
-Las chauchas pintadas son chauchas tradicionales. La chaucha se puede dividir
-hasta 8 veces, Entonces si consideramos 0.000000001 CHA como la unidad mínima
-podemos crear hasta 100 000 000 chauchas pintadas utilizando 1 CHA.
+0.00000001 CHA will be sent to each daughter address that should contain a painted chaucha.
 
-### Paso 2 - Crear la Chauchera "Madre"
+### Step 5 - Delivery of the Painted Chauchas
 
-Esta dirección de chauchera será la considerada como la dirección de origen 
-de nuestras chauchas pintadas o *"tokens"*. Se recomienda tener acceso
-a la *private key*, por lo que una dirección de un *exchange* no es 
-recomendada.
+The *private key* associated with a child chauchera can be delivered or the painted chaucha can be sent to other addresses. The important thing is that there is now a record of the initial transaction. As long as the chaucha has in its historical record the origin of the genesis transaction, it can be considered as valid.
 
-Se necesita que la chauchera madre tenga la cantidad de chauchas necesarias
-para poder crear tantos *tokens* como necesitemos.
+### Step 6 - Collection of the Painted Chauchas
 
-### Paso 3 - Crear Chaucheras "Hijas"
+To consider a shag painted as "used" in a simple way, we can design target chaucheras. When people send painted chauchas, it is said that they can collect their prize, discount, product or service.
 
-Se debe crear una chauchera hijas. Ésto permitirá distribuirlos fácilmente.
-Se recomienda tener acceso a las *private key* si se desea por ejemplo, 
-entregar los tokens en forma de [paper wallets](/sec).
+## Considerations
 
-Es de suma importancia de que estas direcciones sean utilizadas 
-de forma separada a otras chaucheras. Y que no tengan otras transacciones más
-que las pertenecientes al proceso de pintado. Esto es para facilitar la búsqueda
-y la organización.
+While we can make a verbal agreement to validate the value associated to a painted chaucha, as this value being subject to the non-digital world it is advised to back it up with some notarized act or one of similar nature.
 
-### Paso 4 - Enviar las Chauchas Pintadas
+We can also carry out an operation with [OP_RETURN](https://iot.chaucha.cl) that registers a permanent message in the chaucha blockchain using the mother chauchera. This message can specify the commitment and the rules to consider the painted chauchas as valid.
 
-Ésta será la transacción génesis de nuestras chauchas pintadas. A partir 
-de esta transacción se podrá llevar un registro de la ubicación de las chauchas
-pintadas.
+It is advisable to use one or many mother chaucheras and create a [multiple private key](https://en.bitcoin.it/wiki/multisignature) transaction in order to prevent the risk of theft and creation of unofficial painted chauchas.
 
-Se enviará 0.00000001 CHA a cada dirección hija que deba contener una chaucha pintada.
+Lastly, specific rules can be created for these painted chauchas. For example, them not being able for use before a specific date or expire after a specific time. For this it is necessary to program the transaction rules using [Script](https://en.bitcoin.it/wiki/script).
 
-### Paso 5 - Entrega de las Chauchas Pintadas
+## Analyzing the Network
+A great way to analyze the network in real time is to use the api of [insight] (http://insight.chaucha.cl/). You can see the [documentation here] (https://github.com/bitpay/insight). The version adapted to chaucha is
+available at [https://github.com/proyecto-chaucha/chaucha-insight](https://github.com/proyecto-chaucha/chaucha-insight).
 
-Se puede entregar la *private key* asociada a una chauchera hija o se puede enviar
-la chaucha pintada a otras direcciones. Lo importante es que ahora existe un registro
-de la transacción inicial. Mientras la chaucha tenga en su registro histórico 
-ser originaria de la transacción génesis, se puede considerar como válida.
+Using these tools one can listen to websocket events, detecting a transaction to the painted address and analyzing the path traveled by the painted chauchas.
 
-### Paso 6 - Cobro de las Chauchas Pintadas
-
-Para considerar una chaucha pintada como "utilizada" simplemente podemos designar
-chaucheras de destino. Cuando las personas envían  chauchas pintadas a dichos destinos
-puede hacer válido su valor asociado, es decir, puede cobrar su premio, descuento, 
-producto o servicio.
-
-## Consideraciones
-
-Si bien podemos hacer un compromiso de palabra de hacer válido el valor asociado a una 
-chaucha pintada, al estar sujeto este valor al mundo no digital se recomienda
-respaldar con algún acto notarial u de índole similar.
-
-También podemos realizar una operación con [OP_RETURN](https://iot.chaucha.cl) que
-registre un mensaje permantente en el blockchain de chaucha utilizando la chauchera madre. Este mensaje puede especificar
-el compromiso y las reglas para considerar válidas las chauchas pintadas.
-
-Es recomendable utilizar una o varias chaucheras madres y crear una transacción
-de [múltiples llaves privadas](https://en.bitcoin.it/wiki/Multisignature) para
-evitar la posibilidad de robo y creación de chauchas pintadas no oficiales.
-
-Finalmente se pueden crear reglas específicas para estas chauchas pintadas.
-Como por ejemplo no poder ser utilizadas antes de una fecha o expirar después
-de un tiempo específico. Para esto es necesario programar las reglas de la
-transacción utilizando [Script](https://en.bitcoin.it/wiki/Script).
-
-## Analizando la Red
-Una gran forma de analizar la red en tiempo real es utilizar la api del [insight](http://insight.chaucha.cl/). Pueden ver la [documentación acá](https://github.com/bitpay/insight). La versión adaptada a chaucha está
-disponible en [https://github.com/proyecto-chaucha/chaucha-insight](https://github.com/proyecto-chaucha/chaucha-insight).
-
-Utilizando dichas herramientas uno puede escuchar eventos del websocket, 
-detectando una transacción a la dirección pintada y analizar el camino recorrido
-por las chauchas pintadas.
-
-## Enlaces
+## Links
 
 - [https://en.wikipedia.org/wiki/Colored_coin](https://en.wikipedia.org/wiki/Colored_coin)
 - [https://github.com/jl2012/bips/blob/color/bip-color.mediawiki](https://github.com/jl2012/bips/blob/color/bip-color.mediawiki)
 - [http://coloredcoins.org/documentation/](http://coloredcoins.org/documentation/)
 - [http://satokshi.com](http://satokshi.com)
+
+

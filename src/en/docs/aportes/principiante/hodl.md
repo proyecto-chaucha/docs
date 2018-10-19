@@ -1,66 +1,68 @@
 # HODL!
 
-*Este documento fue generado por la comunidad de HODL.cl y fue adjuntado a Chaucha Docs por su originalidad y su aporte educativo.*
+*This document was created by the HODL.cl community and was attached to Chaucha Docs for its originality and its educational contribution.*
+ 
+## What is HODL.cl?
+A group open to new members, to discuss about cryptocurrencies and crypto tokens. We shared information to help us educate ourselves more about these technologies and currencies.
 
-## ¿Qué es HODL.cl?
-Un grupo abierto a nuevos integrantes, para discutir de cripto monedas y cripto tokens. Compartimos información entre nosotros para intentar educarnos más al respecto de estas tecnologías y monedas.
+## What is the meaning of HODL?
+It means *Maintaining your position in cryptocurrencies*, it is the act of buying a cryptocurrency and not selling it. It is said HODL and not HOLD because in an original Bitcoin forum a person miswrote it on purpose and then we all follow it (similar to use exclamations with numbers "one" !!!!111).
 
-## ¿Qué significa HODL?
-Significa *Mantener tu posición en criptomonedas*, es el acto de comprar una cripto moneda y no venderla. Se dice HODL y no HOLD debido a que en un foro original de Bitcoin una persona lo escribió mal a propósito y luego todos lo seguimos (similar a usar exclamaciones con números "uno" !!!!111).
+## How do I buy cryptocurrency?
+We suggest local stock exchanges in Chile such as [buda.com](https://buda.com)
+and [cryptomkt](https://cryptomkt.com), for safety reasons, as they have been running for quite some time.
 
-## ¿Cómo comprar criptomonedas?
-Sugerimos bolsas locales en Chile como [buda.com](https://buda.com) y [cryptomkt](https://cryptomkt.com), por seguridad, ya que tienen bastante tiempo funcionando.
+These stocks exchanges are registered in the Financial Analysis Unit (FAU) and consequently their services are regulated by Law 19.913 in order to prevent asset laundering and the financing of terrorism, meaning that you will have to provide your personal information to buy and sell on them (Know your customer – KYC).
 
-Estas bolsas están inscritas en la Unidad de Análisis Financiero (UAF) y por lo mismo sus servicios están regulados por la ley 19.913 para prevenir el lavado de activos y el financiamiento del terrorismo, esto significa que deberás informar tus datos personales para comprar y vender en ellas (Know your customer - KYC).
+## If I exchange cryptocurrency, do I have to pay taxes?
+In Chile every transaction, of any kind, that generates profit of a value greater than your personal assets must pay taxes (difference between selling and buying), this is why SII requires the dealer to declare this greater value and pay the corresponding taxes.
 
-## ¿Si transo criptomonedas, debo pagar impuestos?
-En Chile toda operación, de cualquier índole, que genere ganancia por mayor valor debe pagar impuesto (diferencia entre venta y compra), por lo que el SII exige que quien transe declare este mayor valor y pague los impuestos correspondientes.
+## How much cryptocurrency you recommend to buy?
+We suggest starting with a very low number, specially if you are new and unsure, with a maximum of 1% of your available money. Our opinion is that you should buy once you are informed of the characteristics and risks of these currencies, not before.
 
-## ¿Cuántas cripto monedas recomiendan comprar?
-Sugerimos partir con un número muy bajo, sobretodo si eres nuevo y no estas seguro, con un máximo del 1% de tu dinero disponible. Nuestra opinión es que compres una vez informado de las características y riesgos de estas monedas, no antes.
+## Where can I get more information?
+Some basic videos:
 
-## Dónde puedo obtener más información?
-Algunos videos básicos:
+* [What is Bitcoin?](https://www.youtube.com/watch?v=ceef71b0zSo)
+* [What is Blockchain?](https://www.youtube.com/watch?v=MCBCCFxbrBg)
+ 
+Then we suggest reading these Wikipedia pages (in this order):
 
-* [¿Qué es Bitcoin?](https://www.youtube.com/watch?v=ceef71b0zSo)
-* [¿Qué es Block chain?](https://www.youtube.com/watch?v=MCBCCFxbrBg)
+* [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin)
+* [Cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency)
+* [Blockchain](https://en.wikipedia.org/wiki/Blockchain)
+More advanced:
 
-Después sugerimos leer éstas páginas de Wikipedia (en este orden):
+* [Ethereum](https://en.wikipedia.org/wiki/Ethereum)
+* [Smart Contracts](https://en.wikipedia.org/wiki/Smart_contract)
+ 
+Other useful information:
 
-* [Bitcoin](https://es.wikipedia.org/wiki/Bitcoin)
-* [Criptomoneda](https://es.wikipedia.org/wiki/Criptomoneda)
-* [Block chain](https://es.wikipedia.org/wiki/Cadena_de_bloques)
+* [How current economy works](https://www.youtube.com/watch?v=npoNbXXS4oQ) (Video - Ray Dalio)
+ 
+News:
 
-Más avanzado:
+* [Coin Telegraph Spanish](https://es.cointelegraph.com/)
+* [Crypto News](https://criptonoticias.com/)
 
-* [Ethereum](https://es.wikipedia.org/wiki/Ethereum)
-* [Smart Contract](https://es.wikipedia.org/wiki/Contrato_inteligente)
+## How do I store my cryptocurrency?
+From more secure to less secure: - We suggest using a Hardware Wallet like Trezor or Ledger Nano S, buy them at official stores. - Secondly, it is suggested to use mobile wallets, and be very careful to back them up, like Mycelium. - Ultimately, and at your own risk, an official Cryptocurrency PC/Mac Wallet, inform yourself before using them in large quantities.
+ 
+## How can I contribute?
+Great! You can do it in two ways, entering the question/answer you want to add in this [form to add information](https://docs.google.com/document/d/1LMbFEa_K3B8SuDJZEW_5cG6jwY9uXFU0lIEkH6OVavk/edit). Or you can also create an Issue in [Github](https://github.com/miguelantonio/hodl.cl) (if you are a nerd), as hodl.cl is open-source.
 
-Otra información útil:
+## Do you have social networks?
+Yes, we have a closed group, you’re welcome! The only thing you have to do is send us your telegram user to this [form](https://docs.google.com/forms/d/e/1FAIpQLSf0-7nNbZEdsdEGcSou9TnheMt8xJZIW10EgwXjKR47pjhkSw/viewform?usp=sf_link)
+or send me a message [@MikeSources](https://t.me/MikeSources)
+ 
+## Does this group have any cost? 
+None! on the contrary, we recommend to ask in this group before you have to pay for a service related to cryptocurrencies, in order to avoid any scams!
 
-* [Cómo funciona la economía actual](https://www.youtube.com/watch?v=npoNbXXS4oQ) (Video - Ray Dalio)
+## They are offering me a lot of quick profits by investing in bitcoins.  What should I do?
+Be careful! It can be a scam. Take a Good look at the of the service offered. When “it’s too good to be true” it’s because it is. We suggest asking the group for advice on this matter.
 
-Noticias:
-
-* [Coin Telegraph Español](https://es.cointelegraph.com/)
-* [Cripto Noticias](https://criptonoticias.com/)
-
-## ¿Cómo almaceno mis criptomonedas?
-De más seguro a menos seguro: - Sugerimos usar una Billetera de Hardware como Trezor o Ledger Nano S, cómpralas en las tiendas oficiales. - En segunda instancia, se sugiere usar billeteras para móviles, y tener mucho cuidado de respaldarlas, como Mycelium. - En última instancia, y bajo tu propio riesgo, una Billetera para PC/Mac oficial de la criptomoneda, infórmate mucho antes de usarlas con grandes cantidades.
-
-## ¿Cómo puedo aportar?
-¡Genial! puedes hacerlo de dos formas, ingresando la pregunta/respuesta que quieras agregar en este [formulario para agregar información](https://docs.google.com/forms/d/e/1FAIpQLSf0-7nNbZEdsdEGcSou9TnheMt8xJZIW10EgwXjKR47pjhkSw/viewform?usp=sf_link). O también puedes crear un Issue en [Github](https://github.com/miguelantonio/hodl.cl) (si eres un nerd), ya que hodl.cl es opensource.
-
-## ¿Tienen redes sociales?
-Si, tenemos un grupo cerrado, eres bienvenid@! sólo debes enviarnos tu usuario de télegram a este [formulario](https://docs.google.com/forms/d/e/1FAIpQLSf0-7nNbZEdsdEGcSou9TnheMt8xJZIW10EgwXjKR47pjhkSw/viewform?usp=sf_link) o enviarme un mensaje [@MikeSources](https://t.me/MikeSources)
-
-##¿Este grupo tiene algún costo?
-¡Ninguno! y al contrario, nuestra recomendación es preguntar en el grupo antes de que tengas que pagar por algún servicio relacionado con criptomonedas, para evitar estafas!
-
-## Me están ofreciendo muchas ganancias rápidas al invertir en bitcoin ¿que hago?
-¡Ten mucho cuidado! Puede ser una estafa, fíjate bien en las características del servicio que te ofrecen, cuando "Es muy bueno para ser verdad" es que realmente es muy bueno para ser verdad, sugerimos preguntar en el grupo por consejos al respecto.
-
-Si tienes sugerencias de temas o aportes que realizar nos puedes encontrar en [telegram](https://t.me/chilecrypto).
-
+If you have any suggestions of topics or contributions, you can find us on [telegram](https://t.me/chilecrypto) .
+ 
 *HODL Team Chile*
+
 

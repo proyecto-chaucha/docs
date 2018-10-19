@@ -1,37 +1,35 @@
-# Preguntas Frecuentes
+# FAQ (Frequent Questions)
 
-Este documento nace bajo la necesidad de responder a preguntas frecuentes formuladas por la comunidad sobre el proyecto Chaucha.
+This FAQ emerges under the need of answering the community frequently asked questions about Chaucha project. 
 
-## ¿Cómo puedo obtener Chauchas?
+## How can I get Chauchas?
+There are two ways. The first way  --which we recommend-- is to start [mining](http://www.chaucha.cl) Chauchas. This way you will begin to get use to the terminology within this technology. The second way you can get them is directly from an Exchange where Chaucha is found. You can buy on [OrionX](https://orionx.io) or [SouthXchange](https://www.southxchange.com/).
 
-Hay dos formas. La primera y la que recomendamos, es que comiences [minando](http://www.chaucha.cl) Chauchas. De esta forma, te comenzarás a familiarizar con la terminología detrás de esta tecnología. La segunda, directamente en un Exchange donde se encuentre Chaucha. Puedes comprar en [OrionX](https://orionx.io) o en [SouthXchange](https://www.southxchange.com/).
+## Can the Chaucha team have any influence on its value?
+The value of Chaucha depends exclusively on how the different exchanges have been valued it. The team behind Chaucha has no influence whatsoever on it's value.
 
-## ¿Tiene incidencia el equipo detrás de Chaucha que ésta suba o baje su precio?
+## Will Chaucha be present in an international Exchange?
 
-El precio de la Chaucha depende esclusivamente de cómo se ha ido valorizando en los diferentes Exchanges. El equipo detrás de Chaucha no tiene incidencia alguna sobre el precio de Chaucha.
+Currently the Chaucha team is working on a whitepaper and a website, so that the national criptocurrency Chaucha can be presented in an International Exchange. The time it takes to fullfil this also depends on the availability of the Exchange. Hopefully we will see Chaucha in an international Exchange pretty soon.
 
-## ¿Chaucha estará en un Exchange Internacional?
 
-El equipo Chaucha está actualmente trabajando en un whitepaper y en el sitio web, para presentar la criptomoneda nacional Chaucha a una Exchange Internacional. Los tiempos para que esto se haga efectivo, también depende de la disponibilidad del Exchange. Esperamos ver muy pronto a Chaucha en un Exchange internacional.
 
-## ¿Hay algún plugin para WordPress que me permita aceptar chauchas como medio de pago?
+## Is there any Wordpress plugin that allows me to accept chauchas as a method of payment?
+You can find the Plugin in the following link [simplepay](https://nb.wordpress.org/plugins/simplepay/). This plugin allows you to accept chauchas as a method of payment.
 
-Puedes encontrar el Plugin en el siguiente link [simplepay](https://nb.wordpress.org/plugins/simplepay/). Este plugin te permite recibir pagos con Chauchas.
+## Why is there no Chaucha ads?
+Even though it’s an important project, Chaucha has never been advertised. Our efforts aim at  the development of the technology. You can see the latest advances of this in [IoT](https://iot.chaucha.cl/).
 
-## ¿Porqué no veo publicidad de Chaucha?
+## Where can I use my Chauchas?
 
-A pesar de que es algo importante, el proyecto nunca ha sido publicitado. Los esfuerzos están siendo encaminados al desarrollo de la tecnología. Puedes ver en [IoT](https://iot.chaucha.cl/) los últimos avances en este aspecto.
+Some shops are already accepting Chauchas as a method of payment. You can find them below:
 
-## ¿En qué comercios puedo utilizar mis Chauchas?
+- [Botiquin](http://www.botiqu.in/): Here you can find all kind of products.
+- [CatPrint](http://catprint.cl):Here you can buy personalized t-shirts.
+- [CriptoFeria](http://criptoferia.cl/): Here you could buy all kind of products with your cryptocurrency.
 
-Ya hay algunos comercios aceptando Chauchas como medio de pago. Te los dejamos a continuación:
+You can find another shops with the help of [CryptoChile](http://foro.cryptochile.io/t/comercios-que-aceptan-chauchas) friends.
 
-  - [Botiquin](http://www.botiqu.in/): Aquí puedes encontrar todo tipo de productos.
-  - [CatPrint](http://catprint.cl): Aquí puedes comprar poleras personalizadas
-  - [CriptoFeria](http://criptoferia.cl/): Aquí podrás comprar todo tipo de productos con tus criptomonedas.
-
-Puedes encontrar otros con los amigos de [CryptoChile](http://foro.cryptochile.io/t/comercios-que-aceptan-chauchas).
-
-*Seguiremos trabajando en enriquecer este FAQ. Siéntete libre de realizar nuevas preguntas*
+*We will keep working to improve this FAQ. Feel free to ask new questions*
 
 
