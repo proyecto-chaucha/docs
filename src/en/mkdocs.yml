@@ -1,7 +1,7 @@
 site_name: Chaucha Docs
 pages:
     - Home: index.md
-    - Aportes de la comunidad:
+    - Community contributions:
       - Principiante:
         - Introducción: aportes/principiante/intro.md
         - Cómo minar Chauchas: aportes/principiante/mining.md
