@@ -2,22 +2,22 @@ site_name: Chaucha Docs
 pages:
     - Home: index.md
     - Community contributions:
-      - Principiante:
-        - Introducción: aportes/principiante/intro.md
-        - Cómo minar Chauchas: aportes/principiante/mining.md
+      - Novice:
+        - Introduction: aportes/principiante/intro.md
+        - How to mine chauchas: aportes/principiante/mining.md
         - HODL !: aportes/principiante/hodl.md
-        - Tips de seguridad: aportes/principiante/sec.md
-        - Preguntas Frecuentes: aportes/principiante/faq.md
-        - Aventuras de Quirquincho: aportes/principiante/quirquincho/aventuras.md
-      - Avanzado:
-        - ¿Qué es un nodo?: aportes/avanzado/nodo.md
-        - Pintar Chauchas: aportes/avanzado/pintar.md
+        - Security tips: aportes/principiante/sec.md
+        - FAQ: aportes/principiante/faq.md
+        - Aventuras de Quirquincho (Spanish): aportes/principiante/quirquincho/aventuras.md
+      - Advanced:
+        - ¿What is a node?: aportes/avanzado/nodo.md
+        - Coloring chauchas: aportes/avanzado/pintar.md
     - Chaucha:
       - Whitepaper: chaucha/whitepaper.md
-    - Testimonios:
-      - La Chaucha y los dibujos: testimonios/leo.md
-      - La chauchera perdida: testimonios/pablo.md
-    - Mapa de proyectos: map.md
+    - Testimony:
+      - Chaucha and the drawings: testimonios/leo.md
+      - The lost chauchera: testimonios/pablo.md
+    - Mapa of projects: map.md
 
 theme:
   name: 'material'

@@ -1,8 +1,8 @@
-﻿# How to mine Chauchas
+# How to mine Chauchas
 [Contributed by Goro2030](https://github.com/Goro2030
 
 
-Two things are needed in order to mine cryptocurrency -- first, a valid *address* to storage your earnings and also a specific mining software to meet your Hardware requirements.
+Two things are needed in order to mine cryptocurrency . First, a valid *address* to storage your earnings and second  a specific mining software to meet your Hardware requirements.
 
 
 *IMPORTANT: MANY ANTIVIRUSES DETECT THESE APPLICATIONS AS VIRUSES, WHICH THEY'RE NOT! YOU NEED TO MAKE AN EXCEPTION IN YOUR ANTIVIRUS SO IT DOES NOT GET DELETED OR BLOCKED.*
@@ -32,21 +32,20 @@ The kind of software you will need to mine cryptocurrency depends on the tech sp
 The mining process puts your PC into an extreme stress state, which shortens its lifespan and can even cause damage if it is carried out for extended periods of time. 
 
 
-We recommend the 2 following software programs to mine with your dedicated video card (GPU)  or using your computer processor resources (CPU).
+We recommend the two following pieces of software to mine using a dedicated video card (GPU)  or your computer processor resources (CPU).
 
 
 * GPU: [ccminer (NVIDIA)](https://github.com/tpruvot/ccminer/releases) and [cgminer (AMD)](https://github.com/nicehash/cgminer-3.7.2-scrypt-jane/releases)
 * CPU: [cpuminer](https://github.com/pooler/cpuminer/releases)
 
 
-Once you download the mining software you will need to unzip it in a folder, open *Notepad* and write the software configuration. Finally, save this file as *inicio.bat* in the same folder in which the mining software is located to ease the configuration process.
+Once you download the mining software you will need to unzip it to a folder. Open *Notepad* and write the software configuration. Finally, save this file as *inicio.bat* in the same folder where the mining software is located to simplify the configuration process.
 
 
 **(To mine in [artesa.chaucha.cl](http://artesa.chaucha.cl/) you need to [sign up](http://artesa.chaucha.cl/public/index.php?page=register) with a valid network address and also create a [Worker](http://artesa.chaucha.cl/public/index.php?page=account&action=workers))**
 
 
 ### Mining with a CPU
-
 ```minerd -a scrypt -o stratum+tcp://artesa.chaucha.cl:3008 -u usuario.worker -p ClaveDelWorker ```
 
 
@@ -65,7 +64,7 @@ Once you download the mining software you will need to unzip it in a folder, ope
 ```cgminer.exe --scrypt --url=stratum+tcp://artesa.chaucha.cl:3008 --usuario.worker:ClaveDelWorker``` 
 
 
-When running the start file the mining software will automatically connect to the *Mining Pool* and start mining.
+When running the start file, the mining software will automatically connect to the *Mining Pool* and start mining.
 
 
 ## Verifying you are mining correctly
@@ -77,4 +76,5 @@ You can see the mining statistics in the section [Worker information](http://art
 Look for your wallet address in the list and you will be able to see the real Hashrate that the Mining Pool is getting from the work of your computer.
 
 
-Additionally, you can check if the mining process is developing correctly by taking a look at the screen of the mining software.
+Additionally, you can check if the mining process is performing well  by taking a look at the screen of the mining software.
+

@@ -1,13 +1,13 @@
-# Bienvenido a Chaucha Docs !
+# Welcome to Chaucha Docs
 
-Aquí encontrarás toda la información generada por el [Proyecto Chaucha](http://www.chaucha.cl/), que te ayudará a comprender el mundo de las criptomonedas de una manera fácil y sencilla.
+Here is all the information from [The Chaucha Project](http://www.chaucha.cl/). This will help you to understand the cryptocurrency world easy and simple.
 
-## Como aportar
+## How can I help?
 
-Si piensas que algún tema presente en esta documentación es erroneo o quieres ayudarnos para mejorar este sitio, por favor visita el [repositorio](https://github.com/proyecto-chaucha/docs) de Chaucha Docs en GitHub, en donde encontrarás el código fuente de este sistema.
+If you find any mistake in our documentation or just want to help improving our site, please visit the Chaucha Docs [repositorio](https://github.com/proyecto-chaucha/docs) in Github, where you can access the system source code.
 
-Los posts estan escritos en formato [Markdown](https://es.wikipedia.org/wiki/Markdown) utilizando el framework [MkDocs](http://www.mkdocs.org) para compilar la versión web, que se encuentra alojada en Github Pages.
+Posts are written in [Markdown](https://en.wikipedia.org/wiki/Markdown) format using  [MkDocs](http://www.mkdocs.org) as a framework to render the web version, which is in turn hosted in Github. 
 
-## Colaboradores
+## Contributors
 
-Agradecimientos a [Goro2030](https://github.com/Goro2030), [Mike sources](https://t.me/mikesources), [Panterozo](https://github.com/panterozo), [Leo Quezada](https://www.facebook.com/Leo8bits/) y Pablo por sus respectivos aportes a Chaucha Docs.
+Special thanks to  [Goro2030](https://github.com/Goro2030), [Mike sources](https://t.me/mikesources), [Panterozo](https://github.com/panterozo), [Leo Quezada](https://www.facebook.com/Leo8bits/) and Pablo for their contributions to Chaucha Docs. 

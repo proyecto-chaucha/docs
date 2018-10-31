@@ -1,4 +1,4 @@
-Bienvenidos al repositorio del proyecto Chaucha!
+Welcome to Project Chaucha repository!
 
-Mientras desarrollamos el contenido, pueden consultar todo el material disponible en www.chaucha.cl 
+This is a work in progress page. In the meantime, please refer to all the avaivable resources at www.chaucha.cl 
 

@@ -1,25 +1,26 @@
-# La chauchera perdida
+# The lost chauchera
 
-Todo partió cuando césar posteo en el grupo de programadores chile en facebook y yo no conocía nada de las criptos, solo conocía ethereum y bitcoin, por lo que había jugado con p500 en modo demo, para aprender a tradear, pero el resto era solo desconocimiento.
+Everything started when Cesar posted on the Chile programmers Facebook page. I didn’t know anything about cryptocurrencies except for Ethereum and Bitcoin. I had played with p500 on demo mode to learn how to trade but everything else was a mystery to me. Since I had never mined cryptocoin before, I wanted to learn.
 
-Y como no había minando nunca una cripto, quería aprender.
 
-Me puse a leer la página de chaucha, vi que eran pocos minando, así que le di con fe intentando minar, creo que sacaba como 50 Kh/s con mi procesador y 180 Kh/s con mi gpu vieja, y así a pura fe los primeros días gane como 5 chauchas. Dejaba el pc prendido minando, meti el minero en mi pc de la pega a 1 solo hilo, para poder seguir usarlo configure una máquina cloud y la deje minando.
+I read the Chaucha’s webpage and noticed there were few people mining, so I gave it a try. I think I saw around 50 kH/s on my processor and 180 kH/S on my old GPU, so I just jumped into it and made like 5 Chauchas. I left my PC on mining, I installed the miner on my job’s PC with just 1 thread. In order to keep using it I set up a cloud machine.
 
-Todo eso sucedió en septiembre y luego me olvide de la chaucha por unas semanas… respalde mi wallet en un pendrive y formatié mi computador.
+All of this happened back in September. Then I forgot about the Chaucha for a few weeks. I saved my wallet on a flash drive and formatted my PC.
 
-Cuando vi que la chaucha ahora valía alrededor de 20 pesos, me dije “oohh y mis chauchas?” y no encontraba el pendrive por ninguna parte, ni sabia cuantas chauchas tenía, entonces instale un recuperador de archivos para que escaneara el disco duro buscando la wallet a pura fe. Después de 20 horas revisando todos los archivos recuperados encontré mi wallet con la agradable sorpresa de 2200 chauchas, porque la máquina de cloud se quedó minando por casi un mes sin que la banearan.
+When I saw that the Chaucha now costed around 20 Chilean pesos, I wondered "So what happened with my chauchas?" But Icould not find the flash drive anywhere, nor I knew how many Chauchas it had. Then I installed a file recovery program to scan the hard drive and look for the wallet, I hoped I was lucky. After 20 hours checking all the recovered files I found my wallet with the pleasant surprise of 2200 Chauchas, because the cloud machine was left mining for almost a month without being banned.
 
-No sabia como tradear, así que con miedo vendi 20 CHA, luego compre 22 CHA con la ganancia y así haciendo scalping y aprendiendo de todo un poco, minería, trading, desarrollo sobre blockchain. 
+I didn’t know how to trade, so scared as I, was I selled 20 CHA. Then I bought 22 CHA with my profit and kept on scalping and learning about mining, trading and Blockchain development.
 
-A final de diciembre me quebré la clavicula, y el medico me prohibió programar por 1 mes, solo podía leer o escribir en el teléfono. Ahí fue luego de leer mucho me metí en la minería, vendí algunas de mis CHA para comprar tarjetas de video, placa, fuente (de hecho creo que fui el que se llevó la últimas tarjetas de video de 2 tiendas) y fue todo un desafío armar un rig solo con la mano izquierda.
+
+At the end of December I broke my clavicle and the doctor forbade me from programming for 1 month. I could only read or write on the phone. It was then --after reading a lo-- that I got into mining. I sold some of my CHA to buy video cards, a motherboard, a power supply--it was quite a challenge to build a rig using only my left hand.
 
 ![Pablo](../img/pablo.jpg)
 
-Y ahora ando minando de todo, menos chauchas, porque no me gusta arrendar para minar. 
+Now I mine everything but chauchas, because I just don't like renting for mining.
 
-Ahora incluso con el precio actual, no me arrepiento de estar guardando 500 CHA para el futuro, le tengo fé al proyecto.
 
-Ha sido uno de los veranos donde más he aprendido y les doy las gracias, porque ha sido bakan entrar a este mundo.
+Even considering the current price, I don't regret having saved 500 CHA for the future. I believe in the project. 
+
+It's been one of the most knowledgeable summers in my life. I was cool getting to know all this world. Thank you!
 
 *- Pablo*
