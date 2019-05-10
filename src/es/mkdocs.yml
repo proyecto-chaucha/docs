@@ -18,6 +18,7 @@ pages:
       - La Chaucha y los dibujos: testimonios/leo.md
       - La chauchera perdida: testimonios/pablo.md
     - Mapa de proyectos: map.md
+    - Torpedo Chauchistico: torpedo.md
 
 theme:
   name: 'material'

@@ -7,7 +7,7 @@ Proyecto web estático generado con mkdocs. Puedes encontrar documentación de m
 Se ha utilizado [Docker Compose](https://docs.docker.com/compose/install/#install-compose) para poder
 crear un ambiente de desarrollo.
 
-### Instalación y Ejecución
+## Instalación y Ejecución
 
 ```sh
 Instalar: docker-compose build
@@ -57,3 +57,6 @@ mkdocs serve
 ```
 
 
+## Novedades
+
+Se incluye `torpedo.md` al día 10-05-2019. Se obtiene desde [Hackmd](https://hackmd.io/HimeY1pvQwqpQMzb-2CfJQ?edit)
