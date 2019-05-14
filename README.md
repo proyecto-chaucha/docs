@@ -1,8 +1,8 @@
 # Chaucha Docs
 
-Proyecto web estático generado con mkdocs. Puedes encontrar documentación de mkdocs en el siguiente [link](http://www.mkdocs.org/).
+Documentación generada por la comunidad de [Chaucha](https://chaucha.cl).
 
-# Instalación
+## Instalación
 
 Este repositorio utiliza [mkdocs](https://www.mkdocs.org/) y [mkdocs-material](https://github.com/squidfunk/mkdocs-material), que pueden ser instalados a a través de Pipenv
 
@@ -13,9 +13,9 @@ pip3 install --user pipenv
 pipenv install
 ```
 
-# Utilización
+## Utilización
 
-## Desarollo
+### Desarollo
 
 Es posible generar un servidor web local con mkdocs para visualizar los cambios realizados al repositorio.
 
@@ -24,7 +24,7 @@ cd docs
 pipenv mkdocs serve
 ```
 
-## Deployment
+### Deployment
 
 Este comando subirá los cambios realizados al repositorio a la rama gh-deploy, la cual está habilitada para la visualización web con github-pages.
 
