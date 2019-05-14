@@ -22,7 +22,7 @@ pages:
 theme:
   name: 'material'
   font:
-    text: 'Montserrat'
+    text: 'Raleway'
     code: 'Space Mono'
   palette:
     primary: 'white'
