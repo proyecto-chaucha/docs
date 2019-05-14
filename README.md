@@ -21,7 +21,7 @@ Es posible generar un servidor web local con mkdocs para visualizar los cambios 
 
 ```
 cd docs
-pipenv mkdocs serve
+pipenv run mkdocs serve
 ```
 
 ### Deployment
@@ -30,5 +30,5 @@ Este comando subirá los cambios realizados al repositorio a la rama gh-deploy, 
 
 ```
 cd docs
-pipenv mkdocs gh-deploy
+pipenv run mkdocs gh-deploy
 ```
